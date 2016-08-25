@@ -1,7 +1,7 @@
 uC/GNU/OS-III/Source/os_pend_multi.o: \
  ../uC/GNU/OS-III/Source/os_pend_multi.c \
  F:\Projetos\ARM_IAR_and_GCC\uC\GNU\OS-III\Source/os.h \
- F:\Projetos\ARM_IAR_and_GCC\APP\GNU/os_cfg.h \
+ f:\projetos\arm_iar_and_gcc\app\gnu\os_cfg.h \
  F:\Projetos\ARM_IAR_and_GCC\uC\GNU\CPU\ARM-Cortex-M3\GNU/cpu.h \
  F:\Projetos\ARM_IAR_and_GCC\uC\GNU\CPU/cpu_def.h \
  F:\Projetos\ARM_IAR_and_GCC\APP\GNU/cpu_cfg.h \
@@ -16,7 +16,7 @@ uC/GNU/OS-III/Source/os_pend_multi.o: \
 
 F:\Projetos\ARM_IAR_and_GCC\uC\GNU\OS-III\Source/os.h:
 
-F:\Projetos\ARM_IAR_and_GCC\APP\GNU/os_cfg.h:
+f:\projetos\arm_iar_and_gcc\app\gnu\os_cfg.h:
 
 F:\Projetos\ARM_IAR_and_GCC\uC\GNU\CPU\ARM-Cortex-M3\GNU/cpu.h:
 

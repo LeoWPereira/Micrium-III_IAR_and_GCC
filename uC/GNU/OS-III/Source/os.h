@@ -56,7 +56,7 @@ extern "C" {
 
 
 
-#include <os_cfg.h>
+#include "../../APP/GNU/os_cfg.h"
 #include <cpu.h>
 #include <cpu_core.h>
 #include <lib_def.h>

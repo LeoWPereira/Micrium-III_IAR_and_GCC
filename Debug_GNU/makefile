@@ -37,6 +37,12 @@ endif
 -include ../makefile.defs
 
 # Add inputs and outputs from these tool invocations to the build variables 
+SECONDARY_FLASH += \
+ARM_IAR_and_GCC.hex \
+
+SECONDARY_SIZE += \
+ARM_IAR_and_GCC.siz \
+
 
 # All Target
 all: ARM_IAR_and_GCC.out
@@ -49,9 +55,21 @@ ARM_IAR_and_GCC.out: $(OBJS) $(USER_OBJS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 
+ARM_IAR_and_GCC.hex: ARM_IAR_and_GCC.out
+	@echo 'Invoking: Cross ARM GNU Create Flash Image'
+	arm-none-eabi-objcopy -O ihex "ARM_IAR_and_GCC.out"  "ARM_IAR_and_GCC.hex"
+	@echo 'Finished building: $@'
+	@echo ' '
+
+ARM_IAR_and_GCC.siz: ARM_IAR_and_GCC.out
+	@echo 'Invoking: Cross ARM GNU Print Size'
+	arm-none-eabi-size --format=berkeley "ARM_IAR_and_GCC.out"
+	@echo 'Finished building: $@'
+	@echo ' '
+
 # Other Targets
 clean:
-	-$(RM) $(OBJS)$(ASM_DEPS)$(S_UPPER_DEPS)$(C_DEPS) ARM_IAR_and_GCC.out
+	-$(RM) $(OBJS)$(SECONDARY_FLASH)$(SECONDARY_SIZE)$(ASM_DEPS)$(S_UPPER_DEPS)$(C_DEPS) ARM_IAR_and_GCC.out
 	-@echo ' '
 
 .PHONY: all clean dependents

@@ -3,7 +3,7 @@ BSP/source/bsp_os.o: ../BSP/source/bsp_os.c \
  F:\Projetos\ARM_IAR_and_GCC\uC\GNU\CPU/cpu_def.h \
  F:\Projetos\ARM_IAR_and_GCC\APP\GNU/cpu_cfg.h \
  F:\Projetos\ARM_IAR_and_GCC\uC\GNU\OS-III\Source/os.h \
- F:\Projetos\ARM_IAR_and_GCC\APP\GNU/os_cfg.h \
+ f:\projetos\arm_iar_and_gcc\app\gnu\os_cfg.h \
  F:\Projetos\ARM_IAR_and_GCC\uC\GNU\CPU/cpu_core.h \
  F:\Projetos\ARM_IAR_and_GCC\uC\GNU\LIB/lib_def.h \
  F:\Projetos\ARM_IAR_and_GCC\uC\GNU\LIB/lib_mem.h \
@@ -77,7 +77,7 @@ F:\Projetos\ARM_IAR_and_GCC\APP\GNU/cpu_cfg.h:
 
 F:\Projetos\ARM_IAR_and_GCC\uC\GNU\OS-III\Source/os.h:
 
-F:\Projetos\ARM_IAR_and_GCC\APP\GNU/os_cfg.h:
+f:\projetos\arm_iar_and_gcc\app\gnu\os_cfg.h:
 
 F:\Projetos\ARM_IAR_and_GCC\uC\GNU\CPU/cpu_core.h:
 
