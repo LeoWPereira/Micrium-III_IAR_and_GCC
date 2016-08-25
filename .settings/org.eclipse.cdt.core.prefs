@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/iar.arm.toolchain.project.exe.configuration.debug.v5.4.0.1312009647.241975249/PATH/delimiter=;
+environment/project/iar.arm.toolchain.project.exe.configuration.debug.v5.4.0.1312009647.241975249/PATH/operation=replace
+environment/project/iar.arm.toolchain.project.exe.configuration.debug.v5.4.0.1312009647.241975249/PATH/value=F\:\\GCC\\gcc-arm-none-eabi\\bin;C\:\\cygwin64\\bin;C\:\\ProgramData\\Oracle\\Java\\javapath;C\:\\Windows\\system32;C\:\\Windows;C\:\\Windows\\System32\\Wbem;C\:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Program Files\\Git\\cmd
+environment/project/iar.arm.toolchain.project.exe.configuration.debug.v5.4.0.1312009647.241975249/append=true
+environment/project/iar.arm.toolchain.project.exe.configuration.debug.v5.4.0.1312009647.241975249/appendContributed=true

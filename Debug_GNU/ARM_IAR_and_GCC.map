@@ -1,0 +1,2266 @@
+Archive member included to satisfy reference by file (symbol)
+
+f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+                              ./BSP/third_party/efm32/emlib/src/em_usart.o (__aeabi_uldivmod)
+f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a(_udivmoddi4.o)
+                              f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a(_dvmd_tls.o)
+                              f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+                              f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (exit)
+f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+                              f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o) (_global_impure_ptr)
+f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+                              f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (__libc_init_array)
+f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memcpy.o)
+                              ./BSP/source/bsp_stk.o (memcpy)
+f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+                              f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (memset)
+f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+                              f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o) (__call_exitprocs)
+f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+                              f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o) (atexit)
+f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+                              f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+                              f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o) (__register_exitproc)
+f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+                              f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+OSSchedLockNestingCtr
+                    0x1               ./uC/GNU/OS-III/Source/os_var.o
+OS_AppTaskReturnHookPtr
+                    0x4               ./uC/GNU/OS-III/Source/os_var.o
+sem                 0x28              ./APP/GNU/app.o
+OSTaskRegNextAvailID
+                    0x1               ./uC/GNU/OS-III/Source/os_var.o
+OSRunning           0x1               ./uC/GNU/OS-III/Source/os_var.o
+OSRdyList           0x300             ./uC/GNU/OS-III/Source/os_var.o
+xTimerForWakeUp     0x4               ./APP/GNU/app.o
+OSPrioHighRdy       0x1               ./uC/GNU/OS-III/Source/os_var.o
+OSSemDbgListPtr     0x4               ./uC/GNU/OS-III/Source/os_var.o
+OS_AppTaskCreateHookPtr
+                    0x4               ./uC/GNU/OS-III/Source/os_var.o
+OSCfg_TickWheel     0x88              ./uC/GNU/OS-III/Source/os_cfg_app.o
+SystemCoreClock     0x4               ./BSP/source/startup/system_efm32gg.o
+OSPrioCur           0x1               ./uC/GNU/OS-III/Source/os_var.o
+OSTickTaskTCB       0x98              ./uC/GNU/OS-III/Source/os_var.o
+Math_RandSeedCur    0x4               ./uC/GNU/LIB/lib_math.o
+OSTmrTickCtr        0x4               ./uC/GNU/OS-III/Source/os_var.o
+OSTCBCurPtr         0x4               ./uC/GNU/OS-III/Source/os_var.o
+OSCfg_MsgPool       0x640             ./uC/GNU/OS-III/Source/os_cfg_app.o
+OSQQty              0x2               ./uC/GNU/OS-III/Source/os_var.o
+OSPrioSaved         0x1               ./uC/GNU/OS-III/Source/os_var.o
+OSTCBHighRdyPtr     0x4               ./uC/GNU/OS-III/Source/os_var.o
+CPU_TS_TmrFreq_Hz   0x4               ./uC/GNU/CPU/cpu_core.o
+OSTaskDbgListPtr    0x4               ./uC/GNU/OS-III/Source/os_var.o
+OSTmrTaskTimeMax    0x4               ./uC/GNU/OS-III/Source/os_var.o
+OS_AppTaskDelHookPtr
+                    0x4               ./uC/GNU/OS-III/Source/os_var.o
+OS_AppTimeTickHookPtr
+                    0x4               ./uC/GNU/OS-III/Source/os_var.o
+Mem_PoolHeap        0x48              ./uC/GNU/LIB/lib_mem.o
+OSTaskCtxSwCtr      0x4               ./uC/GNU/OS-III/Source/os_var.o
+OSIntNestingCtr     0x1               ./uC/GNU/OS-III/Source/os_var.o
+OSTaskQty           0x2               ./uC/GNU/OS-III/Source/os_var.o
+OS_CPU_ExceptStkBase
+                    0x4               ./uC/GNU/OS-III/Ports/ARM-Cortex-M/ARMv7-M/GNU/os_cpu_c.o
+OSTmrTaskTCB        0x98              ./uC/GNU/OS-III/Source/os_var.o
+OSMsgPool           0xc               ./uC/GNU/OS-III/Source/os_var.o
+OSIdleTaskTCB       0x98              ./uC/GNU/OS-III/Source/os_var.o
+OSQDbgListPtr       0x4               ./uC/GNU/OS-III/Source/os_var.o
+OSSemQty            0x2               ./uC/GNU/OS-III/Source/os_var.o
+OSMemDbgListPtr     0x4               ./uC/GNU/OS-III/Source/os_var.o
+OSCfg_TmrTaskStk    0x200             ./uC/GNU/OS-III/Source/os_cfg_app.o
+OS_AppIdleTaskHookPtr
+                    0x4               ./uC/GNU/OS-III/Source/os_var.o
+Mem_Heap            0x400             ./uC/GNU/LIB/lib_mem.o
+OSTickCtr           0x4               ./uC/GNU/OS-III/Source/os_var.o
+OS_AppTaskSwHookPtr
+                    0x4               ./uC/GNU/OS-III/Source/os_var.o
+OSCfg_TmrWheel      0x88              ./uC/GNU/OS-III/Source/os_cfg_app.o
+OSTmrQty            0x2               ./uC/GNU/OS-III/Source/os_var.o
+OSCfg_ISRStk        0x200             ./uC/GNU/OS-III/Source/os_cfg_app.o
+OSIdleTaskCtr       0x4               ./uC/GNU/OS-III/Source/os_var.o
+OS_AppStatTaskHookPtr
+                    0x4               ./uC/GNU/OS-III/Source/os_var.o
+OSCfg_TickTaskStk   0x200             ./uC/GNU/OS-III/Source/os_cfg_app.o
+Mem_PoolTbl         0x4               ./uC/GNU/LIB/lib_mem.o
+OSFlagQty           0x2               ./uC/GNU/OS-III/Source/os_var.o
+OSFlagDbgListPtr    0x4               ./uC/GNU/OS-III/Source/os_var.o
+OSMemQty            0x2               ./uC/GNU/OS-III/Source/os_var.o
+OSMutexQty          0x2               ./uC/GNU/OS-III/Source/os_var.o
+OSPrioTbl           0x8               ./uC/GNU/OS-III/Source/os_prio.o
+OSTmrDbgListPtr     0x4               ./uC/GNU/OS-III/Source/os_var.o
+OSTickTaskTimeMax   0x4               ./uC/GNU/OS-III/Source/os_var.o
+OSTmrUpdateCnt      0x4               ./uC/GNU/OS-III/Source/os_var.o
+OSMutexDbgListPtr   0x4               ./uC/GNU/OS-III/Source/os_var.o
+OSTmrUpdateCtr      0x4               ./uC/GNU/OS-III/Source/os_var.o
+OSCfg_IdleTaskStk   0x200             ./uC/GNU/OS-III/Source/os_cfg_app.o
+CPU_Name            0x10              ./uC/GNU/CPU/cpu_core.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .data          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .bss           0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .data          0x00000000        0x4 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .data          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .bss           0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .data          0x00000000        0x0 ./uC/GNU/OS-III/Source/os_cfg_app.o
+ .bss           0x00000000        0x0 ./uC/GNU/OS-III/Source/os_cfg_app.o
+ .data          0x00000000        0x0 ./uC/GNU/OS-III/Source/os_core.o
+ .bss           0x00000000        0x0 ./uC/GNU/OS-III/Source/os_core.o
+ .data          0x00000000        0x0 ./uC/GNU/OS-III/Source/os_dbg.o
+ .bss           0x00000000        0x0 ./uC/GNU/OS-III/Source/os_dbg.o
+ .data          0x00000000        0x0 ./uC/GNU/OS-III/Source/os_flag.o
+ .bss           0x00000000        0x0 ./uC/GNU/OS-III/Source/os_flag.o
+ .text          0x00000000        0x0 ./uC/GNU/OS-III/Source/os_int.o
+ .data          0x00000000        0x0 ./uC/GNU/OS-III/Source/os_int.o
+ .bss           0x00000000        0x0 ./uC/GNU/OS-III/Source/os_int.o
+ .data          0x00000000        0x0 ./uC/GNU/OS-III/Source/os_mem.o
+ .bss           0x00000000        0x0 ./uC/GNU/OS-III/Source/os_mem.o
+ .data          0x00000000        0x0 ./uC/GNU/OS-III/Source/os_msg.o
+ .bss           0x00000000        0x0 ./uC/GNU/OS-III/Source/os_msg.o
+ .data          0x00000000        0x0 ./uC/GNU/OS-III/Source/os_mutex.o
+ .bss           0x00000000        0x0 ./uC/GNU/OS-III/Source/os_mutex.o
+ .text          0x00000000      0x39c ./uC/GNU/OS-III/Source/os_pend_multi.o
+ .data          0x00000000        0x0 ./uC/GNU/OS-III/Source/os_pend_multi.o
+ .bss           0x00000000        0x0 ./uC/GNU/OS-III/Source/os_pend_multi.o
+ .data          0x00000000        0x0 ./uC/GNU/OS-III/Source/os_prio.o
+ .bss           0x00000000        0x0 ./uC/GNU/OS-III/Source/os_prio.o
+ .data          0x00000000        0x0 ./uC/GNU/OS-III/Source/os_q.o
+ .bss           0x00000000        0x0 ./uC/GNU/OS-III/Source/os_q.o
+ .data          0x00000000        0x0 ./uC/GNU/OS-III/Source/os_sem.o
+ .bss           0x00000000        0x0 ./uC/GNU/OS-III/Source/os_sem.o
+ .text          0x00000000        0x0 ./uC/GNU/OS-III/Source/os_stat.o
+ .data          0x00000000        0x0 ./uC/GNU/OS-III/Source/os_stat.o
+ .bss           0x00000000        0x0 ./uC/GNU/OS-III/Source/os_stat.o
+ .data          0x00000000        0x0 ./uC/GNU/OS-III/Source/os_task.o
+ .bss           0x00000000        0x0 ./uC/GNU/OS-III/Source/os_task.o
+ .data          0x00000000        0x0 ./uC/GNU/OS-III/Source/os_tick.o
+ .bss           0x00000000        0x0 ./uC/GNU/OS-III/Source/os_tick.o
+ .data          0x00000000        0x0 ./uC/GNU/OS-III/Source/os_time.o
+ .bss           0x00000000        0x0 ./uC/GNU/OS-III/Source/os_time.o
+ .data          0x00000000        0x0 ./uC/GNU/OS-III/Source/os_tmr.o
+ .bss           0x00000000        0x0 ./uC/GNU/OS-III/Source/os_tmr.o
+ .text          0x00000000        0x0 ./uC/GNU/OS-III/Source/os_var.o
+ .data          0x00000000        0x0 ./uC/GNU/OS-III/Source/os_var.o
+ .bss           0x00000000        0x0 ./uC/GNU/OS-III/Source/os_var.o
+ .data          0x00000000        0x0 ./uC/GNU/OS-III/Ports/ARM-Cortex-M/ARMv7-M/GNU/os_cpu_a.o
+ .bss           0x00000000        0x0 ./uC/GNU/OS-III/Ports/ARM-Cortex-M/ARMv7-M/GNU/os_cpu_a.o
+ .data          0x00000000        0x0 ./uC/GNU/OS-III/Ports/ARM-Cortex-M/ARMv7-M/GNU/os_cpu_c.o
+ .bss           0x00000000        0x0 ./uC/GNU/OS-III/Ports/ARM-Cortex-M/ARMv7-M/GNU/os_cpu_c.o
+ .data          0x00000000        0x0 ./uC/GNU/LIB/Ports/ARM-Cortex-M3/GNU/lib_mem_a.o
+ .bss           0x00000000        0x0 ./uC/GNU/LIB/Ports/ARM-Cortex-M3/GNU/lib_mem_a.o
+ .data          0x00000000        0x0 ./uC/GNU/LIB/lib_ascii.o
+ .bss           0x00000000        0x0 ./uC/GNU/LIB/lib_ascii.o
+ .text          0x00000000       0xa0 ./uC/GNU/LIB/lib_math.o
+ .data          0x00000000        0x0 ./uC/GNU/LIB/lib_math.o
+ .bss           0x00000000        0x0 ./uC/GNU/LIB/lib_math.o
+ COMMON         0x00000000        0x4 ./uC/GNU/LIB/lib_math.o
+ .data          0x00000000        0x0 ./uC/GNU/LIB/lib_mem.o
+ .bss           0x00000000        0x0 ./uC/GNU/LIB/lib_mem.o
+ .data          0x00000000        0x0 ./uC/GNU/LIB/lib_str.o
+ .bss           0x00000000        0x0 ./uC/GNU/LIB/lib_str.o
+ .data          0x00000000        0x0 ./uC/GNU/CPU/ARM-Cortex-M3/GNU/cpu_a.o
+ .bss           0x00000000        0x0 ./uC/GNU/CPU/ARM-Cortex-M3/GNU/cpu_a.o
+ .text          0x00000000      0x8b4 ./uC/GNU/CPU/ARM-Cortex-M3/GNU/cpu_c.o
+ .data          0x00000000        0x0 ./uC/GNU/CPU/ARM-Cortex-M3/GNU/cpu_c.o
+ .bss           0x00000000        0x0 ./uC/GNU/CPU/ARM-Cortex-M3/GNU/cpu_c.o
+ .data          0x00000000        0x0 ./uC/GNU/CPU/cpu_core.o
+ .bss           0x00000000        0x0 ./uC/GNU/CPU/cpu_core.o
+ .text          0x00000000      0x3d0 ./BSP/third_party/efm32/emlib/src/em_acmp.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_acmp.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_acmp.o
+ .rodata        0x00000000       0x2d ./BSP/third_party/efm32/emlib/src/em_acmp.o
+ .text          0x00000000      0x428 ./BSP/third_party/efm32/emlib/src/em_adc.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_adc.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_adc.o
+ .rodata        0x00000000       0x2c ./BSP/third_party/efm32/emlib/src/em_adc.o
+ .text          0x00000000      0xe60 ./BSP/third_party/efm32/emlib/src/em_aes.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_aes.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_aes.o
+ .rodata        0x00000000       0x2c ./BSP/third_party/efm32/emlib/src/em_aes.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_assert.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_assert.o
+ .text          0x00000000      0x3cc ./BSP/third_party/efm32/emlib/src/em_burtc.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_burtc.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_burtc.o
+ .rodata        0x00000000       0x76 ./BSP/third_party/efm32/emlib/src/em_burtc.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_cmu.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_cmu.o
+ .text          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_crc.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_crc.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_crc.o
+ .text          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_cryotimer.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_cryotimer.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_cryotimer.o
+ .text          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_crypto.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_crypto.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_crypto.o
+ .text          0x00000000      0x338 ./BSP/third_party/efm32/emlib/src/em_dac.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_dac.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_dac.o
+ .rodata        0x00000000       0x74 ./BSP/third_party/efm32/emlib/src/em_dac.o
+ .text          0x00000000      0x108 ./BSP/third_party/efm32/emlib/src/em_dbg.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_dbg.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_dbg.o
+ .rodata        0x00000000       0x2c ./BSP/third_party/efm32/emlib/src/em_dbg.o
+ .text          0x00000000      0xb9c ./BSP/third_party/efm32/emlib/src/em_dma.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_dma.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_dma.o
+ .rodata        0x00000000       0x2c ./BSP/third_party/efm32/emlib/src/em_dma.o
+ .text          0x00000000     0x11c0 ./BSP/third_party/efm32/emlib/src/em_ebi.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_ebi.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_ebi.o
+ .rodata        0x00000000       0x2c ./BSP/third_party/efm32/emlib/src/em_ebi.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_emu.o
+ .text          0x00000000      0x554 ./BSP/third_party/efm32/emlib/src/em_gpio.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_gpio.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_gpio.o
+ .rodata        0x00000000       0x75 ./BSP/third_party/efm32/emlib/src/em_gpio.o
+ .text          0x00000000      0x840 ./BSP/third_party/efm32/emlib/src/em_i2c.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_i2c.o
+ .bss           0x00000000       0x18 ./BSP/third_party/efm32/emlib/src/em_i2c.o
+ .rodata        0x00000000       0x30 ./BSP/third_party/efm32/emlib/src/em_i2c.o
+ .text          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_idac.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_idac.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_idac.o
+ .text          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_int.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_int.o
+ .text          0x00000000      0xa08 ./BSP/third_party/efm32/emlib/src/em_lcd.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_lcd.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_lcd.o
+ .rodata        0x00000000       0x2c ./BSP/third_party/efm32/emlib/src/em_lcd.o
+ .text          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_ldma.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_ldma.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_ldma.o
+ .text          0x00000000      0xb74 ./BSP/third_party/efm32/emlib/src/em_lesense.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_lesense.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_lesense.o
+ .rodata        0x00000000       0x30 ./BSP/third_party/efm32/emlib/src/em_lesense.o
+ .text          0x00000000      0x334 ./BSP/third_party/efm32/emlib/src/em_letimer.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_letimer.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_letimer.o
+ .rodata        0x00000000       0x30 ./BSP/third_party/efm32/emlib/src/em_letimer.o
+ .text          0x00000000      0x470 ./BSP/third_party/efm32/emlib/src/em_leuart.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_leuart.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_leuart.o
+ .rodata        0x00000000       0x2f ./BSP/third_party/efm32/emlib/src/em_leuart.o
+ .text          0x00000000       0xc4 ./BSP/third_party/efm32/emlib/src/em_mpu.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_mpu.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_mpu.o
+ .rodata        0x00000000       0x2c ./BSP/third_party/efm32/emlib/src/em_mpu.o
+ .text          0x00000000      0x1b8 ./BSP/third_party/efm32/emlib/src/em_msc.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_msc.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_msc.o
+ .ram           0x00000000      0x528 ./BSP/third_party/efm32/emlib/src/em_msc.o
+ .rodata        0x00000000       0x2c ./BSP/third_party/efm32/emlib/src/em_msc.o
+ .text          0x00000000      0x504 ./BSP/third_party/efm32/emlib/src/em_opamp.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_opamp.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_opamp.o
+ .rodata        0x00000000       0x2e ./BSP/third_party/efm32/emlib/src/em_opamp.o
+ .text          0x00000000      0x750 ./BSP/third_party/efm32/emlib/src/em_pcnt.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_pcnt.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_pcnt.o
+ .rodata        0x00000000       0x2d ./BSP/third_party/efm32/emlib/src/em_pcnt.o
+ .text          0x00000000       0x90 ./BSP/third_party/efm32/emlib/src/em_prs.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_prs.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_prs.o
+ .rodata        0x00000000       0x2c ./BSP/third_party/efm32/emlib/src/em_prs.o
+ .text          0x00000000      0x184 ./BSP/third_party/efm32/emlib/src/em_rmu.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_rmu.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_rmu.o
+ .rodata        0x00000000       0x80 ./BSP/third_party/efm32/emlib/src/em_rmu.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_rtc.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_rtc.o
+ .text          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_rtcc.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_rtcc.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_rtcc.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_system.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_system.o
+ .text          0x00000000      0x4ac ./BSP/third_party/efm32/emlib/src/em_timer.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_timer.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_timer.o
+ .rodata        0x00000000       0x76 ./BSP/third_party/efm32/emlib/src/em_timer.o
+ .text          0x00000000      0x938 ./BSP/third_party/efm32/emlib/src/em_usart.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_usart.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_usart.o
+ .rodata        0x00000000       0x2e ./BSP/third_party/efm32/emlib/src/em_usart.o
+ .text          0x00000000      0x26c ./BSP/third_party/efm32/emlib/src/em_vcmp.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_vcmp.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_vcmp.o
+ .rodata        0x00000000       0x2d ./BSP/third_party/efm32/emlib/src/em_vcmp.o
+ .text          0x00000000      0x190 ./BSP/third_party/efm32/emlib/src/em_wdog.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_wdog.o
+ .bss           0x00000000        0x0 ./BSP/third_party/efm32/emlib/src/em_wdog.o
+ .data          0x00000000        0x0 ./BSP/third_party/efm32/emdrv/rtcdrv/src/rtcdriver.o
+ .bss           0x00000000        0x0 ./BSP/source/startup/system_efm32gg.o
+ .text          0x00000000      0x2c0 ./BSP/source/bsp_bcc.o
+ .data          0x00000000        0x0 ./BSP/source/bsp_bcc.o
+ .bss           0x00000000        0x8 ./BSP/source/bsp_bcc.o
+ .rodata        0x00000000       0x18 ./BSP/source/bsp_bcc.o
+ .data          0x00000000        0x0 ./BSP/source/bsp_os.o
+ .bss           0x00000000        0x0 ./BSP/source/bsp_os.o
+ .text          0x00000000      0x1e4 ./BSP/source/bsp_stk.o
+ .data          0x00000000        0x0 ./BSP/source/bsp_stk.o
+ .bss           0x00000000        0x0 ./BSP/source/bsp_stk.o
+ .rodata        0x00000000       0x50 ./BSP/source/bsp_stk.o
+ .text          0x00000000      0x4b0 ./BSP/source/bsp_stk_leds.o
+ .data          0x00000000        0x0 ./BSP/source/bsp_stk_leds.o
+ .bss           0x00000000        0x0 ./BSP/source/bsp_stk_leds.o
+ .rodata        0x00000000       0x58 ./BSP/source/bsp_stk_leds.o
+ .data          0x00000000        0x0 ./BSP/source/bsp_trace.o
+ .bss           0x00000000        0x0 ./BSP/source/bsp_trace.o
+ .data          0x00000000        0x0 ./BSP/source/cpu_bsp.o
+ .bss           0x00000000        0x0 ./BSP/source/cpu_bsp.o
+ .data          0x00000000        0x0 ./APP/GNU/app.o
+ .data          0x00000000        0x0 ./APP/GNU/os_app_hooks.o
+ .bss           0x00000000        0x0 ./APP/GNU/os_app_hooks.o
+ .data          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+ .data          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+ .text          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+ .text          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+ .bss           0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+ .text          0x00000000       0xec f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+ .data          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+ .text          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .data          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .bss           0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .text          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ .data          0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ .bss           0x00000000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+LOAD f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+LOAD f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+LOAD ./uC/GNU/OS-III/Source/os_cfg_app.o
+LOAD ./uC/GNU/OS-III/Source/os_core.o
+LOAD ./uC/GNU/OS-III/Source/os_dbg.o
+LOAD ./uC/GNU/OS-III/Source/os_flag.o
+LOAD ./uC/GNU/OS-III/Source/os_int.o
+LOAD ./uC/GNU/OS-III/Source/os_mem.o
+LOAD ./uC/GNU/OS-III/Source/os_msg.o
+LOAD ./uC/GNU/OS-III/Source/os_mutex.o
+LOAD ./uC/GNU/OS-III/Source/os_pend_multi.o
+LOAD ./uC/GNU/OS-III/Source/os_prio.o
+LOAD ./uC/GNU/OS-III/Source/os_q.o
+LOAD ./uC/GNU/OS-III/Source/os_sem.o
+LOAD ./uC/GNU/OS-III/Source/os_stat.o
+LOAD ./uC/GNU/OS-III/Source/os_task.o
+LOAD ./uC/GNU/OS-III/Source/os_tick.o
+LOAD ./uC/GNU/OS-III/Source/os_time.o
+LOAD ./uC/GNU/OS-III/Source/os_tmr.o
+LOAD ./uC/GNU/OS-III/Source/os_var.o
+LOAD ./uC/GNU/OS-III/Ports/ARM-Cortex-M/ARMv7-M/GNU/os_cpu_a.o
+LOAD ./uC/GNU/OS-III/Ports/ARM-Cortex-M/ARMv7-M/GNU/os_cpu_c.o
+LOAD ./uC/GNU/LIB/Ports/ARM-Cortex-M3/GNU/lib_mem_a.o
+LOAD ./uC/GNU/LIB/lib_ascii.o
+LOAD ./uC/GNU/LIB/lib_math.o
+LOAD ./uC/GNU/LIB/lib_mem.o
+LOAD ./uC/GNU/LIB/lib_str.o
+LOAD ./uC/GNU/CPU/ARM-Cortex-M3/GNU/cpu_a.o
+LOAD ./uC/GNU/CPU/ARM-Cortex-M3/GNU/cpu_c.o
+LOAD ./uC/GNU/CPU/cpu_core.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_acmp.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_adc.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_aes.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_assert.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_burtc.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_cmu.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_crc.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_cryotimer.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_crypto.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_dac.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_dbg.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_dma.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_ebi.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_emu.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_gpio.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_i2c.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_idac.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_int.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_lcd.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_ldma.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_lesense.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_letimer.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_leuart.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_mpu.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_msc.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_opamp.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_pcnt.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_prs.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_rmu.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_rtc.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_rtcc.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_system.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_timer.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_usart.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_vcmp.o
+LOAD ./BSP/third_party/efm32/emlib/src/em_wdog.o
+LOAD ./BSP/third_party/efm32/emdrv/rtcdrv/src/rtcdriver.o
+LOAD ./BSP/source/startup/system_efm32gg.o
+LOAD ./BSP/source/bsp_bcc.o
+LOAD ./BSP/source/bsp_os.o
+LOAD ./BSP/source/bsp_stk.o
+LOAD ./BSP/source/bsp_stk_leds.o
+LOAD ./BSP/source/bsp_trace.o
+LOAD ./BSP/source/cpu_bsp.o
+LOAD ./APP/GNU/app.o
+LOAD ./APP/GNU/os_app_hooks.o
+START GROUP
+LOAD f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a
+LOAD f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a
+LOAD f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libc.a
+END GROUP
+START GROUP
+LOAD f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a
+LOAD f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libc.a
+LOAD f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys.a
+END GROUP
+LOAD f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+LOAD f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+                [!provide]                PROVIDE (__executable_start, 0x8000)
+                0x00008000                . = 0x8000
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.dyn        0x00008000        0x0
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+                [!provide]                PROVIDE (__rel_iplt_start, .)
+ *(.rel.iplt)
+ .rel.iplt      0x00008000        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+                [!provide]                PROVIDE (__rel_iplt_end, .)
+
+.rela.dyn       0x00008000        0x0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+                [!provide]                PROVIDE (__rela_iplt_start, .)
+ *(.rela.iplt)
+                [!provide]                PROVIDE (__rela_iplt_end, .)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.init           0x00008000        0xc
+ *(SORT(.init))
+ .init          0x00008000        0x4 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+                0x00008000                _init
+ .init          0x00008004        0x8 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+
+.plt
+ *(.plt)
+
+.iplt           0x0000800c        0x0
+ *(.iplt)
+ .iplt          0x0000800c        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+
+.text           0x0000800c     0xceb4
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ .text.exit     0x0000800c       0x20 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+                0x0000800c                exit
+ *(.text.startup .text.startup.*)
+ .text.startup.register_fini
+                0x0000802c       0x14 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00008040       0x5c f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .text          0x0000809c       0x74 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+                0x0000809c                _start
+                0x0000809c                _mainCRTStartup
+ .text          0x00008110        0xc ./uC/GNU/OS-III/Source/os_cfg_app.o
+                0x00008110                OSCfg_Init
+ .text          0x0000811c     0x1110 ./uC/GNU/OS-III/Source/os_core.o
+                0x0000811c                OSInit
+                0x000082d0                OSIntEnter
+                0x00008308                OSIntExit
+                0x000083dc                OSSched
+                0x0000847c                OSSchedLock
+                0x000084f0                OSSchedUnlock
+                0x00008580                OSStart
+                0x00008600                OSVersion
+                0x0000861c                OS_IdleTask
+                0x00008648                OS_IdleTaskInit
+                0x000086b0                OS_Pend
+                0x00008734                OS_PendAbort
+                0x00008824                OS_PendAbort1
+                0x00008874                OS_PendDataInit
+                0x000088dc                OS_PendDbgNameAdd
+                0x00008958                OS_PendDbgNameRemove
+                0x000089a0                OS_PendListChangePrio
+                0x00008a00                OS_PendListInit
+                0x00008a24                OS_PendListInsertHead
+                0x00008a78                OS_PendListInsertPrio
+                0x00008b60                OS_PendListRemove
+                0x00008bb0                OS_PendListRemove1
+                0x00008c44                OS_PendObjDel
+                0x00008d28                OS_PendObjDel1
+                0x00008d78                OS_Post
+                0x00008e90                OS_Post1
+                0x00008eec                OS_RdyListInit
+                0x00008f34                OS_RdyListInsert
+                0x00008f70                OS_RdyListInsertHead
+                0x00008ff0                OS_RdyListInsertTail
+                0x00009070                OS_RdyListMoveHeadToTail
+                0x00009100                OS_RdyListRemove
+                0x000091b0                OS_TaskBlock
+                0x00009200                OS_TaskRdy
+ .text          0x0000922c      0x240 ./uC/GNU/OS-III/Source/os_dbg.o
+                0x0000922c                OS_Dbg_Init
+ .text          0x0000946c      0xc7c ./uC/GNU/OS-III/Source/os_flag.o
+                0x0000946c                OSFlagCreate
+                0x000094f8                OSFlagDel
+                0x00009634                OSFlagPend
+                0x00009b5c                OSFlagPendAbort
+                0x00009c60                OSFlagPendGetFlagsRdy
+                0x00009cac                OSFlagPost
+                0x00009d2c                OS_FlagBlock
+                0x00009d6c                OS_FlagClr
+                0x00009da4                OS_FlagInit
+                0x00009dd0                OS_FlagDbgListAdd
+                0x00009e1c                OS_FlagDbgListRemove
+                0x00009e8c                OS_FlagPost
+                0x0000a064                OS_FlagTaskRdy
+ .text          0x0000a0e8      0x280 ./uC/GNU/OS-III/Source/os_mem.o
+                0x0000a0e8                OSMemCreate
+                0x0000a208                OSMemGet
+                0x0000a278                OSMemPut
+                0x0000a2f8                OS_MemDbgListAdd
+                0x0000a33c                OS_MemInit
+ .text          0x0000a368      0x340 ./uC/GNU/OS-III/Source/os_msg.o
+                0x0000a368                OS_MsgPoolInit
+                0x0000a434                OS_MsgQFreeAll
+                0x0000a4a8                OS_MsgQInit
+                0x0000a4dc                OS_MsgQGet
+                0x0000a598                OS_MsgQPut
+ .text          0x0000a6a8      0x8d4 ./uC/GNU/OS-III/Source/os_mutex.o
+                0x0000a6a8                OSMutexCreate
+                0x0000a744                OSMutexDel
+                0x0000a924                OSMutexPend
+                0x0000abb4                OSMutexPendAbort
+                0x0000acb8                OSMutexPost
+                0x0000ae48                OS_MutexClr
+                0x0000ae94                OS_MutexDbgListAdd
+                0x0000aee0                OS_MutexDbgListRemove
+                0x0000af50                OS_MutexInit
+ .text          0x0000af7c      0x114 ./uC/GNU/OS-III/Source/os_prio.o
+                0x0000af7c                OS_PrioInit
+                0x0000afac                OS_PrioGetHighest
+                0x0000aff4                OS_PrioInsert
+                0x0000b040                OS_PrioRemove
+ .text          0x0000b090      0x7f8 ./uC/GNU/OS-III/Source/os_q.o
+                0x0000b090                OSQCreate
+                0x0000b130                OSQDel
+                0x0000b26c                OSQFlush
+                0x0000b2e8                OSQPend
+                0x0000b4d8                OSQPendAbort
+                0x0000b5dc                OSQPost
+                0x0000b68c                OS_QClr
+                0x0000b6d0                OS_QDbgListAdd
+                0x0000b71c                OS_QDbgListRemove
+                0x0000b78c                OS_QInit
+                0x0000b7b8                OS_QPost
+ .text          0x0000b888      0x7b4 ./uC/GNU/OS-III/Source/os_sem.o
+                0x0000b888                OSSemCreate
+                0x0000b914                OSSemDel
+                0x0000ba50                OSSemPend
+                0x0000bc18                OSSemPendAbort
+                0x0000bd1c                OSSemPost
+                0x0000bda4                OSSemSet
+                0x0000be38                OS_SemClr
+                0x0000be74                OS_SemDbgListAdd
+                0x0000bec0                OS_SemDbgListRemove
+                0x0000bf30                OS_SemInit
+                0x0000bf5c                OS_SemPost
+ .text          0x0000c03c     0x13d8 ./uC/GNU/OS-III/Source/os_task.o
+                0x0000c03c                OSTaskChangePrio
+                0x0000c178                OSTaskCreate
+                0x0000c370                OSTaskDel
+                0x0000c4ac                OSTaskQFlush
+                0x0000c518                OSTaskQPend
+                0x0000c694                OSTaskQPendAbort
+                0x0000c754                OSTaskQPost
+                0x0000c7b8                OSTaskRegGet
+                0x0000c818                OSTaskRegGetID
+                0x0000c870                OSTaskRegSet
+                0x0000c8cc                OSTaskResume
+                0x0000c930                OSTaskSemPend
+                0x0000ca9c                OSTaskSemPendAbort
+                0x0000cb68                OSTaskSemPost
+                0x0000cbb0                OSTaskSemSet
+                0x0000cc10                OSTaskStkChk
+                0x0000cd00                OSTaskSuspend
+                0x0000cd44                OS_TaskDbgListAdd
+                0x0000cd90                OS_TaskDbgListRemove
+                0x0000ce14                OS_TaskInit
+                0x0000ce4c                OS_TaskInitTCB
+                0x0000cf90                OS_TaskQPost
+                0x0000d088                OS_TaskResume
+                0x0000d1ac                OS_TaskReturn
+                0x0000d1d4                OS_TaskSemPost
+                0x0000d2fc                OS_TaskSuspend
+ .text          0x0000d414      0x5e8 ./uC/GNU/OS-III/Source/os_tick.o
+                0x0000d414                OS_TickTask
+                0x0000d444                OS_TickTaskInit
+                0x0000d4fc                OS_TickListInit
+                0x0000d548                OS_TickListInsert
+                0x0000d738                OS_TickListRemove
+                0x0000d7c4                OS_TickListResetPeak
+                0x0000d804                OS_TickListUpdate
+ .text          0x0000d9fc      0x4e4 ./uC/GNU/OS-III/Source/os_time.o
+                0x0000d9fc                OSTimeDly
+                0x0000dae0                OSTimeDlyHMSM
+                0x0000dce0                OSTimeDlyResume
+                0x0000de24                OSTimeGet
+                0x0000de58                OSTimeSet
+                0x0000de8c                OSTimeTick
+ .text          0x0000dee0      0xba4 ./uC/GNU/OS-III/Source/os_tmr.o
+                0x0000dee0                OSTmrCreate
+                0x0000dfd0                OSTmrDel
+                0x0000e0d8                OSTmrRemainGet
+                0x0000e208                OSTmrStart
+                0x0000e2fc                OSTmrStateGet
+                0x0000e388                OSTmrStop
+                0x0000e4e4                OS_TmrClr
+                0x0000e548                OS_TmrDbgListAdd
+                0x0000e58c                OS_TmrDbgListRemove
+                0x0000e5fc                OS_TmrInit
+                0x0000e73c                OS_TmrLink
+                0x0000e8a4                OS_TmrResetPeak
+                0x0000e8e4                OS_TmrUnlink
+                0x0000e980                OS_TmrTask
+ .text          0x0000ea84       0x84 ./uC/GNU/OS-III/Ports/ARM-Cortex-M/ARMv7-M/GNU/os_cpu_a.o
+                0x0000ea84                OSStartHighRdy
+                0x0000eaa4                OS_CPU_PendSVHandler
+ .text          0x0000eb08      0x2e8 ./uC/GNU/OS-III/Ports/ARM-Cortex-M/ARMv7-M/GNU/os_cpu_c.o
+                0x0000eb08                OSIdleTaskHook
+                0x0000eb24                OSInitHook
+                0x0000eb7c                OSStatTaskHook
+                0x0000eb98                OSTaskCreateHook
+                0x0000ebbc                OSTaskDelHook
+                0x0000ebe0                OSTaskReturnHook
+                0x0000ec04                OSTaskStkInit
+                0x0000ed04                OSTaskSwHook
+                0x0000ed20                OSTimeTickHook
+                0x0000ed3c                OS_CPU_SysTickHandler
+                0x0000ed74                OS_CPU_SysTickInitFreq
+                0x0000ed9c                OS_CPU_SysTickInit
+ .text          0x0000edf0      0x220 ./uC/GNU/LIB/Ports/ARM-Cortex-M3/GNU/lib_mem_a.o
+                0x0000edf0                Mem_Copy
+ .text          0x0000f010      0x384 ./uC/GNU/LIB/lib_ascii.o
+                0x0000f010                ASCII_IsAlpha
+                0x0000f048                ASCII_IsAlphaNum
+                0x0000f08c                ASCII_IsLower
+                0x0000f0b8                ASCII_IsUpper
+                0x0000f0e4                ASCII_IsDig
+                0x0000f110                ASCII_IsDigOct
+                0x0000f13c                ASCII_IsDigHex
+                0x0000f180                ASCII_IsBlank
+                0x0000f1ac                ASCII_IsSpace
+                0x0000f1f0                ASCII_IsPrint
+                0x0000f21c                ASCII_IsGraph
+                0x0000f248                ASCII_IsPunct
+                0x0000f2bc                ASCII_IsCtrl
+                0x0000f2f0                ASCII_ToLower
+                0x0000f320                ASCII_ToUpper
+                0x0000f350                ASCII_Cmp
+ .text          0x0000f394      0xcf0 ./uC/GNU/LIB/lib_mem.o
+                0x0000f394                Mem_Init
+                0x0000f424                Mem_Clr
+                0x0000f440                Mem_Set
+                0x0000f4f4                Mem_Move
+                0x0000f604                Mem_Cmp
+                0x0000f734                Mem_HeapAlloc
+                0x0000f7e8                Mem_HeapGetSizeRem
+                0x0000f80c                Mem_SegGetSizeRem
+                0x0000f894                Mem_PoolClr
+                0x0000f930                Mem_PoolCreate
+                0x0000fce8                Mem_PoolBlkGetNbrAvail
+                0x0000fd1c                Mem_PoolBlkGet
+                0x0000fd9c                Mem_PoolBlkGetUsedAtIx
+                0x0000fe1c                Mem_PoolBlkFree
+                0x0000fed4                Mem_PoolBlkIxGet
+ .text          0x00010084      0xe1c ./uC/GNU/LIB/lib_str.o
+                0x00010084                Str_Len
+                0x000100a4                Str_Len_N
+                0x000100e8                Str_Copy
+                0x0001010c                Str_Copy_N
+                0x0001019c                Str_Cat
+                0x000101c0                Str_Cat_N
+                0x00010270                Str_Cmp
+                0x00010298                Str_Cmp_N
+                0x000103b8                Str_CmpIgnoreCase
+                0x000103e0                Str_CmpIgnoreCase_N
+                0x00010558                Str_Char
+                0x00010580                Str_Char_N
+                0x00010608                Str_Char_Last
+                0x00010630                Str_Char_Last_N
+                0x000106a8                Str_Char_Replace
+                0x000106d4                Str_Char_Replace_N
+                0x00010740                Str_Str
+                0x00010764                Str_Str_N
+                0x00010850                Str_FmtNbr_Int32U
+                0x00010894                Str_FmtNbr_Int32S
+                0x000108f8                Str_ParseNbr_Int32U
+                0x00010924                Str_ParseNbr_Int32S
+ .text          0x00010ea0       0x34 ./uC/GNU/CPU/ARM-Cortex-M3/GNU/cpu_a.o
+                0x00010ea0                CPU_IntDis
+                0x00010ea4                CPU_IntEn
+                0x00010ea8                CPU_SR_Save
+                0x00010eb0                CPU_SR_Restore
+                0x00010eb6                CPU_WaitForInt
+                0x00010eba                CPU_WaitForExcept
+                0x00010ebe                CPU_CntLeadZeros
+                0x00010ec4                CPU_CntTrailZeros
+                0x00010ece                CPU_RevBits
+ .text          0x00010ed4      0x438 ./uC/GNU/CPU/cpu_core.o
+                0x00010ed4                CPU_Init
+                0x00010ee4                CPU_SW_Exception
+                0x00010eec                CPU_NameClr
+                0x00010f18                CPU_NameGet
+                0x00010f64                CPU_NameSet
+                0x00010fcc                CPU_TS_Get32
+                0x00010fe4                CPU_TS_Update
+                0x00010ff0                CPU_TS_TmrFreqGet
+                0x00011028                CPU_TS_TmrFreqSet
+                0x00011044                CPU_CntLeadZeros08
+                0x00011068                CPU_CntLeadZeros16
+                0x0001108c                CPU_CntLeadZeros32
+                0x000110a8                CPU_CntLeadZeros64
+                0x00011228                CPU_CntTrailZeros08
+                0x00011250                CPU_CntTrailZeros16
+                0x00011278                CPU_CntTrailZeros32
+                0x0001129c                CPU_CntTrailZeros64
+ .text          0x0001130c        0xc ./BSP/third_party/efm32/emlib/src/em_assert.o
+                0x0001130c                assertEFM
+ .text          0x00011318     0x17d8 ./BSP/third_party/efm32/emlib/src/em_cmu.o
+                0x000117d4                CMU_AUXHFRCOBandGet
+                0x000117f0                CMU_AUXHFRCOBandSet
+                0x000118ac                CMU_Calibrate
+                0x00011958                CMU_CalibrateConfig
+                0x00011a54                CMU_CalibrateCountGet
+                0x00011a8c                CMU_ClockDivGet
+                0x00011c24                CMU_ClockDivSet
+                0x00011f18                CMU_ClockEnable
+                0x00012014                CMU_ClockFreqGet
+                0x00012224                CMU_ClockSelectGet
+                0x00012390                CMU_ClockSelectSet
+                0x00012670                CMU_FreezeEnable
+                0x000126a8                CMU_HFRCOBandGet
+                0x000126c4                CMU_HFRCOBandSet
+                0x000127a0                CMU_HFRCOStartupDelayGet
+                0x000127bc                CMU_HFRCOStartupDelaySet
+                0x00012800                CMU_LCDClkFDIVGet
+                0x00012818                CMU_LCDClkFDIVSet
+                0x00012868                CMU_OscillatorEnable
+                0x0001293c                CMU_OscillatorTuningGet
+                0x00012998                CMU_OscillatorTuningSet
+                0x00012a48                CMU_PCNTClockExternalGet
+                0x00012aa4                CMU_PCNTClockExternalSet
+ .text          0x00012af0      0x630 ./BSP/third_party/efm32/emlib/src/em_emu.o
+                0x00012cec                EMU_EnterEM2
+                0x00012d88                EMU_EnterEM3
+                0x00012e48                EMU_EnterEM4
+                0x00012e9c                EMU_MemPwrDown
+                0x00012ecc                EMU_UpdateOscConfig
+                0x00012ee8                EMU_EM23Init
+                0x00012f1c                EMU_EM4Init
+                0x00012f6c                EMU_BUPDInit
+                0x00013044                EMU_BUThresholdSet
+                0x000130b0                EMU_BUThresRangeSet
+ .text          0x00013120      0x1b4 ./BSP/third_party/efm32/emlib/src/em_rtc.o
+                0x0001314c                RTC_CompareGet
+                0x00013198                RTC_CompareSet
+                0x000131ec                RTC_Enable
+                0x00013210                RTC_FreezeEnable
+                0x0001323c                RTC_Init
+                0x0001328c                RTC_Reset
+                0x000132c0                RTC_CounterReset
+ .text          0x000132d4       0xe0 ./BSP/third_party/efm32/emlib/src/em_system.o
+                0x000132d4                SYSTEM_ChipRevisionGet
+                0x00013358                SYSTEM_GetCalibrationValue
+ .text          0x000133b4      0xdcc ./BSP/third_party/efm32/emdrv/rtcdrv/src/rtcdriver.o
+                0x00013540                RTCDRV_AllocateTimer
+                0x000135c8                RTCDRV_Delay
+                0x00013644                RTCDRV_FreeTimer
+                0x00013698                RTCDRV_Init
+                0x00013738                RTCDRV_DeInit
+                0x00013778                RTCDRV_IsRunning
+                0x000137f4                RTCDRV_StartTimer
+                0x00013aec                RTCDRV_StopTimer
+                0x00013b54                RTCDRV_TimeRemaining
+                0x00013c94                RTC_IRQHandler
+ .text          0x00014180      0x21c ./BSP/source/startup/system_efm32gg.o
+                0x0001419c                SystemCoreClockGet
+                0x000141e4                SystemMaxCoreClockGet
+                0x000141f8                SystemHFClockGet
+                0x000142e8                SystemHFXOClockGet
+                0x000142fc                SystemHFXOClockSet
+                0x0001432c                SystemInit
+                0x00014338                SystemLFRCOClockGet
+                0x00014348                SystemULFRCOClockGet
+                0x00014358                SystemLFXOClockGet
+                0x0001436c                SystemLFXOClockSet
+ .text          0x0001439c       0x34 ./BSP/source/bsp_os.o
+                0x0001439c                BSP_OSTickInit
+                0x000143b8                BSP_OSTickDisable
+ .text          0x000143d0      0x114 ./BSP/source/bsp_trace.o
+                0x000143d0                BSP_TraceSwoSetup
+                0x000144bc                BSP_TraceProfilerSetup
+ .text          0x000144e4       0xb4 ./BSP/source/cpu_bsp.o
+                0x000144e4                CPU_TS_TmrInit
+                0x00014528                CPU_TS_TmrRd
+                0x00014544                CPU_TS32_to_uSec
+ .text          0x00014598      0x20c ./APP/GNU/app.o
+                0x000145fc                main
+                0x00014750                timerCallback
+ .text          0x000147a4      0x15c ./APP/GNU/os_app_hooks.o
+                0x000147a4                App_OS_SetAllHooks
+                0x00014824                App_OS_ClrAllHooks
+                0x00014888                App_OS_TaskCreateHook
+                0x0001489c                App_OS_TaskDelHook
+                0x000148b0                App_OS_TaskReturnHook
+                0x000148c4                App_OS_IdleTaskHook
+                0x000148d0                App_OS_InitHook
+                0x000148dc                App_OS_StatTaskHook
+                0x000148e8                App_OS_TaskSwHook
+                0x000148f4                App_OS_TimeTickHook
+ .text          0x00014900       0x30 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+                0x00014900                __aeabi_uldivmod
+ .text          0x00014930      0x2ec f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a(_udivmoddi4.o)
+                0x00014930                __udivmoddi4
+ .text          0x00014c1c        0x4 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a(_dvmd_tls.o)
+                0x00014c1c                __aeabi_idiv0
+                0x00014c1c                __aeabi_ldiv0
+ .text.__libc_init_array
+                0x00014c20       0x50 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+                0x00014c20                __libc_init_array
+ .text.memset   0x00014c70       0x9c f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+                0x00014c70                memset
+ .text.__call_exitprocs
+                0x00014d0c       0xd8 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+                0x00014d0c                __call_exitprocs
+ .text.atexit   0x00014de4        0xc f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+                0x00014de4                atexit
+ .text.__libc_fini_array
+                0x00014df0       0x28 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+                0x00014df0                __libc_fini_array
+ .text.__register_exitproc
+                0x00014e18       0xa4 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+                0x00014e18                __register_exitproc
+ .text._exit    0x00014ebc        0x4 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+                0x00014ebc                _exit
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x00014ec0        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00014ec0        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x00014ec0        0x0 linker stubs
+ *(.v4_bx)
+ .v4_bx         0x00014ec0        0x0 linker stubs
+
+.fini           0x00014ec0        0xc
+ *(SORT(.fini))
+ .fini          0x00014ec0        0x4 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+                0x00014ec0                _fini
+ .fini          0x00014ec4        0x8 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+                [!provide]                PROVIDE (__etext, .)
+                [!provide]                PROVIDE (_etext, .)
+                [!provide]                PROVIDE (etext, .)
+
+.rodata         0x00014ecc      0x554
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x00014ecc       0xa4 ./uC/GNU/OS-III/Source/os_cfg_app.o
+                0x00014ecc                OSCfg_IdleTaskStkBasePtr
+                0x00014ed0                OSCfg_IdleTaskStkLimit
+                0x00014ed4                OSCfg_IdleTaskStkSize
+                0x00014ed8                OSCfg_IdleTaskStkSizeRAM
+                0x00014edc                OSCfg_IntQBasePtr
+                0x00014ee0                OSCfg_IntQSize
+                0x00014ee4                OSCfg_IntQSizeRAM
+                0x00014ee8                OSCfg_IntQTaskStkBasePtr
+                0x00014eec                OSCfg_IntQTaskStkLimit
+                0x00014ef0                OSCfg_IntQTaskStkSize
+                0x00014ef4                OSCfg_IntQTaskStkSizeRAM
+                0x00014ef8                OSCfg_ISRStkBasePtr
+                0x00014efc                OSCfg_ISRStkSize
+                0x00014f00                OSCfg_ISRStkSizeRAM
+                0x00014f04                OSCfg_MsgPoolSize
+                0x00014f08                OSCfg_MsgPoolSizeRAM
+                0x00014f0c                OSCfg_MsgPoolBasePtr
+                0x00014f10                OSCfg_StatTaskPrio
+                0x00014f14                OSCfg_StatTaskRate_Hz
+                0x00014f18                OSCfg_StatTaskStkBasePtr
+                0x00014f1c                OSCfg_StatTaskStkLimit
+                0x00014f20                OSCfg_StatTaskStkSize
+                0x00014f24                OSCfg_StatTaskStkSizeRAM
+                0x00014f28                OSCfg_StkSizeMin
+                0x00014f2c                OSCfg_TickRate_Hz
+                0x00014f30                OSCfg_TickTaskPrio
+                0x00014f34                OSCfg_TickTaskStkBasePtr
+                0x00014f38                OSCfg_TickTaskStkLimit
+                0x00014f3c                OSCfg_TickTaskStkSize
+                0x00014f40                OSCfg_TickTaskStkSizeRAM
+                0x00014f44                OSCfg_TickWheelSize
+                0x00014f48                OSCfg_TickWheelSizeRAM
+                0x00014f4c                OSCfg_TmrTaskPrio
+                0x00014f50                OSCfg_TmrTaskRate_Hz
+                0x00014f54                OSCfg_TmrTaskStkBasePtr
+                0x00014f58                OSCfg_TmrTaskStkLimit
+                0x00014f5c                OSCfg_TmrTaskStkSize
+                0x00014f60                OSCfg_TmrTaskStkSizeRAM
+                0x00014f64                OSCfg_TmrWheelSize
+                0x00014f68                OSCfg_TmrWheelSizeRAM
+                0x00014f6c                OSCfg_DataSizeRAM
+ .rodata        0x00014f70       0x2a ./uC/GNU/OS-III/Source/os_core.o
+ *fill*         0x00014f9a        0x2 
+ .rodata        0x00014f9c      0x16c ./uC/GNU/OS-III/Source/os_dbg.o
+                0x00014f9c                OSDbg_DbgEn
+                0x00014f9d                OSDbg_ArgChkEn
+                0x00014f9e                OSDbg_AppHooksEn
+                0x00014fa0                OSDbg_EndiannessTest
+                0x00014fa4                OSDbg_CalledFromISRChkEn
+                0x00014fa5                OSDbg_FlagEn
+                0x00014fa8                OSDbg_FlagGrp
+                0x00014fd0                OSDbg_FlagDelEn
+                0x00014fd1                OSDbg_FlagModeClrEn
+                0x00014fd2                OSDbg_FlagPendAbortEn
+                0x00014fd4                OSDbg_FlagGrpSize
+                0x00014fd6                OSDbg_FlagWidth
+                0x00014fd8                OSDbg_IntQ
+                0x00014fda                OSDbg_ISRPostDeferredEn
+                0x00014fdc                OSDbg_Mem
+                0x00014ffc                OSDbg_MemEn
+                0x00014ffe                OSDbg_MemSize
+                0x00015000                OSDbg_MsgEn
+                0x00015002                OSDbg_MsgSize
+                0x00015004                OSDbg_MsgPoolSize
+                0x00015006                OSDbg_MsgQSize
+                0x00015008                OSDbg_Mutex
+                0x00015034                OSDbg_MutexEn
+                0x00015035                OSDbg_MutexDelEn
+                0x00015036                OSDbg_MutexPendAbortEn
+                0x00015038                OSDbg_MutexSize
+                0x0001503a                OSDbg_ObjTypeChkEn
+                0x0001503b                OSDbg_PendMultiEn
+                0x0001503c                OSDbg_PendDataSize
+                0x0001503e                OSDbg_PendListSize
+                0x00015040                OSDbg_PendObjSize
+                0x00015042                OSDbg_PrioMax
+                0x00015044                OSDbg_PrioTblSize
+                0x00015046                OSDbg_PtrSize
+                0x00015048                OSDbg_Q
+                0x00015078                OSDbg_QEn
+                0x00015079                OSDbg_QDelEn
+                0x0001507a                OSDbg_QFlushEn
+                0x0001507b                OSDbg_QPendAbortEn
+                0x0001507c                OSDbg_QSize
+                0x0001507e                OSDbg_SchedRoundRobinEn
+                0x00015080                OSDbg_Sem
+                0x000150a8                OSDbg_SemEn
+                0x000150a9                OSDbg_SemDelEn
+                0x000150aa                OSDbg_SemPendAbortEn
+                0x000150ab                OSDbg_SemSetEn
+                0x000150ac                OSDbg_SemSize
+                0x000150ae                OSDbg_RdyList
+                0x000150b0                OSDbg_RdyListSize
+                0x000150b4                OSDbg_StkWidth
+                0x000150b5                OSDbg_StatTaskEn
+                0x000150b6                OSDbg_StatTaskStkChkEn
+                0x000150b7                OSDbg_TaskChangePrioEn
+                0x000150b8                OSDbg_TaskDelEn
+                0x000150b9                OSDbg_TaskQEn
+                0x000150ba                OSDbg_TaskQPendAbortEn
+                0x000150bb                OSDbg_TaskProfileEn
+                0x000150bc                OSDbg_TaskRegTblSize
+                0x000150be                OSDbg_TaskSemPendAbortEn
+                0x000150bf                OSDbg_TaskSuspendEn
+                0x000150c0                OSDbg_TCBSize
+                0x000150c2                OSDbg_TickSpokeSize
+                0x000150c4                OSDbg_TimeDlyHMSMEn
+                0x000150c5                OSDbg_TimeDlyResumeEn
+                0x000150c6                OSDbg_TLS_TblSize
+                0x000150c8                OSDbg_Tmr
+                0x000150fc                OSDbg_TmrEn
+                0x000150fd                OSDbg_TmrDelEn
+                0x000150fe                OSDbg_TmrSize
+                0x00015100                OSDbg_TmrSpokeSize
+                0x00015102                OSDbg_VersionNbr
+                0x00015104                OSDbg_DataSize
+ .rodata        0x00015108        0xa ./uC/GNU/OS-III/Source/os_flag.o
+ *fill*         0x00015112        0x2 
+ .rodata        0x00015114        0xa ./uC/GNU/OS-III/Source/os_mutex.o
+ *fill*         0x0001511e        0x2 
+ .rodata        0x00015120        0x6 ./uC/GNU/OS-III/Source/os_q.o
+ *fill*         0x00015126        0x2 
+ .rodata        0x00015128        0xa ./uC/GNU/OS-III/Source/os_sem.o
+ *fill*         0x00015132        0x2 
+ .rodata        0x00015134        0xa ./uC/GNU/OS-III/Source/os_task.o
+ *fill*         0x0001513e        0x2 
+ .rodata        0x00015140       0x14 ./uC/GNU/OS-III/Source/os_tick.o
+ .rodata        0x00015154       0x1d ./uC/GNU/OS-III/Source/os_tmr.o
+ *fill*         0x00015171        0x3 
+ .rodata        0x00015174       0x94 ./uC/GNU/LIB/lib_str.o
+ .rodata        0x00015208      0x100 ./uC/GNU/CPU/cpu_core.o
+ .rodata        0x00015308       0x74 ./BSP/third_party/efm32/emlib/src/em_cmu.o
+ .rodata        0x0001537c       0x2c ./BSP/third_party/efm32/emlib/src/em_emu.o
+ .rodata        0x000153a8       0x2c ./BSP/third_party/efm32/emlib/src/em_rtc.o
+ .rodata        0x000153d4       0x2f ./BSP/third_party/efm32/emlib/src/em_system.o
+ *fill*         0x00015403        0x1 
+ .rodata        0x00015404        0x3 ./BSP/third_party/efm32/emdrv/rtcdrv/src/rtcdriver.o
+ *fill*         0x00015407        0x1 
+ .rodata        0x00015408        0xf ./APP/GNU/app.o
+ *fill*         0x00015417        0x1 
+ .rodata.str1.4
+                0x00015418        0x4 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+                                  0x2 (size before relaxing)
+ .rodata._global_impure_ptr
+                0x0001541c        0x4 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+                0x0001541c                _global_impure_ptr
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                [!provide]                PROVIDE (__exidx_start, .)
+
+.ARM.exidx      0x00015420        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x00015420        0x8 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.exidx     0x00015428        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a(_udivmoddi4.o)
+                                  0x8 (size before relaxing)
+                [!provide]                PROVIDE (__exidx_end, .)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x00015428        0x4
+ *(.eh_frame)
+ .eh_frame      0x00015428        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .eh_frame      0x00015428        0x4 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ *(.eh_frame.*)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x0002542c                . = (ALIGN (0x10000) + (. & 0xffff))
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x0002542c        0x0
+                0x0002542c                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x0002542c                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x0002542c        0x8
+                0x0002542c                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x0002542c        0x4 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ *(.init_array)
+ .init_array    0x00025430        0x4 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+                0x00025434                PROVIDE (__init_array_end, .)
+
+.fini_array     0x00025434        0x4
+                0x00025434                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x00025434        0x4 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+                0x00025438                PROVIDE (__fini_array_end, .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x00025438        0x4
+ *(.jcr)
+ .jcr           0x00025438        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .jcr           0x00025438        0x4 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic
+ *(.dynamic)
+
+.got            0x0002543c        0x0
+ *(.got.plt)
+ *(.igot.plt)
+ .igot.plt      0x0002543c        0x0 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ *(.got)
+ *(.igot)
+
+.data           0x00025440      0x430
+                0x00025440                __data_start = .
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x00025440        0x8 ./BSP/source/startup/system_efm32gg.o
+ .data.impure_data
+                0x00025448      0x428 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+
+.data1
+ *(.data1)
+                0x00025870                _edata = .
+                [!provide]                PROVIDE (edata, .)
+                0x00025870                . = .
+                0x00025870                __bss_start = .
+                0x00025870                __bss_start__ = .
+
+.bss            0x00025870     0x1eb4
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00025870       0x1c f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .bss           0x0002588c        0x4 ./BSP/third_party/efm32/emlib/src/em_emu.o
+ .bss           0x00025890        0x4 ./BSP/third_party/efm32/emlib/src/em_int.o
+                0x00025890                INT_LockCnt
+ *fill*         0x00025894        0x4 
+ .bss           0x00025898       0xab ./BSP/third_party/efm32/emdrv/rtcdrv/src/rtcdriver.o
+ *fill*         0x00025943        0x1 
+ .bss           0x00025944      0x498 ./APP/GNU/app.o
+ *(COMMON)
+ COMMON         0x00025ddc      0xf50 ./uC/GNU/OS-III/Source/os_cfg_app.o
+                0x00025ddc                OSCfg_TickWheel
+                0x00025e64                OSCfg_MsgPool
+                0x000264a4                OSCfg_TmrTaskStk
+                0x000266a4                OSCfg_TmrWheel
+                0x0002672c                OSCfg_ISRStk
+                0x0002692c                OSCfg_TickTaskStk
+                0x00026b2c                OSCfg_IdleTaskStk
+ COMMON         0x00026d2c        0x8 ./uC/GNU/OS-III/Source/os_prio.o
+                0x00026d2c                OSPrioTbl
+ COMMON         0x00026d34      0x55c ./uC/GNU/OS-III/Source/os_var.o
+                0x00026d34                OSSchedLockNestingCtr
+                0x00026d38                OS_AppTaskReturnHookPtr
+                0x00026d3c                OSTaskRegNextAvailID
+                0x00026d3d                OSRunning
+                0x00026d40                OSRdyList
+                0x00027040                OSPrioHighRdy
+                0x00027044                OSSemDbgListPtr
+                0x00027048                OS_AppTaskCreateHookPtr
+                0x0002704c                OSPrioCur
+                0x00027050                OSTickTaskTCB
+                0x000270e8                OSTmrTickCtr
+                0x000270ec                OSTCBCurPtr
+                0x000270f0                OSQQty
+                0x000270f2                OSPrioSaved
+                0x000270f4                OSTCBHighRdyPtr
+                0x000270f8                OSTaskDbgListPtr
+                0x000270fc                OSTmrTaskTimeMax
+                0x00027100                OS_AppTaskDelHookPtr
+                0x00027104                OS_AppTimeTickHookPtr
+                0x00027108                OSTaskCtxSwCtr
+                0x0002710c                OSIntNestingCtr
+                0x0002710e                OSTaskQty
+                0x00027110                OSTmrTaskTCB
+                0x000271a8                OSMsgPool
+                0x000271b4                OSIdleTaskTCB
+                0x0002724c                OSQDbgListPtr
+                0x00027250                OSSemQty
+                0x00027254                OSMemDbgListPtr
+                0x00027258                OS_AppIdleTaskHookPtr
+                0x0002725c                OSTickCtr
+                0x00027260                OS_AppTaskSwHookPtr
+                0x00027264                OSTmrQty
+                0x00027268                OSIdleTaskCtr
+                0x0002726c                OS_AppStatTaskHookPtr
+                0x00027270                OSFlagQty
+                0x00027274                OSFlagDbgListPtr
+                0x00027278                OSMemQty
+                0x0002727a                OSMutexQty
+                0x0002727c                OSTmrDbgListPtr
+                0x00027280                OSTickTaskTimeMax
+                0x00027284                OSTmrUpdateCnt
+                0x00027288                OSMutexDbgListPtr
+                0x0002728c                OSTmrUpdateCtr
+ COMMON         0x00027290        0x4 ./uC/GNU/OS-III/Ports/ARM-Cortex-M/ARMv7-M/GNU/os_cpu_c.o
+                0x00027290                OS_CPU_ExceptStkBase
+ COMMON         0x00027294      0x44c ./uC/GNU/LIB/lib_mem.o
+                0x00027294                Mem_PoolHeap
+                0x000272dc                Mem_Heap
+                0x000276dc                Mem_PoolTbl
+ COMMON         0x000276e0       0x14 ./uC/GNU/CPU/cpu_core.o
+                0x000276e0                CPU_TS_TmrFreq_Hz
+                0x000276e4                CPU_Name
+ COMMON         0x000276f4        0x4 ./BSP/source/startup/system_efm32gg.o
+                0x000276f4                SystemCoreClock
+ COMMON         0x000276f8       0x2c ./APP/GNU/app.o
+                0x000276f8                sem
+                0x00027720                xTimerForWakeUp
+                0x00027724                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x00027724                _bss_end__ = .
+                0x00027724                __bss_end__ = .
+                0x00027724                . = ALIGN (0x4)
+                0x00027724                . = SEGMENT_START ("ldata-segment", .)
+                0x00027724                . = ALIGN (0x4)
+                0x00027724                __end__ = .
+                0x00027724                _end = .
+                [!provide]                PROVIDE (end, .)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x6e
+ *(.comment)
+ .comment       0x00000000       0x6e ./uC/GNU/OS-III/Source/os_cfg_app.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f ./uC/GNU/OS-III/Source/os_core.o
+ .comment       0x0000006e       0x6f ./uC/GNU/OS-III/Source/os_dbg.o
+ .comment       0x0000006e       0x6f ./uC/GNU/OS-III/Source/os_flag.o
+ .comment       0x0000006e       0x6f ./uC/GNU/OS-III/Source/os_int.o
+ .comment       0x0000006e       0x6f ./uC/GNU/OS-III/Source/os_mem.o
+ .comment       0x0000006e       0x6f ./uC/GNU/OS-III/Source/os_msg.o
+ .comment       0x0000006e       0x6f ./uC/GNU/OS-III/Source/os_mutex.o
+ .comment       0x0000006e       0x6f ./uC/GNU/OS-III/Source/os_pend_multi.o
+ .comment       0x0000006e       0x6f ./uC/GNU/OS-III/Source/os_prio.o
+ .comment       0x0000006e       0x6f ./uC/GNU/OS-III/Source/os_q.o
+ .comment       0x0000006e       0x6f ./uC/GNU/OS-III/Source/os_sem.o
+ .comment       0x0000006e       0x6f ./uC/GNU/OS-III/Source/os_stat.o
+ .comment       0x0000006e       0x6f ./uC/GNU/OS-III/Source/os_task.o
+ .comment       0x0000006e       0x6f ./uC/GNU/OS-III/Source/os_tick.o
+ .comment       0x0000006e       0x6f ./uC/GNU/OS-III/Source/os_time.o
+ .comment       0x0000006e       0x6f ./uC/GNU/OS-III/Source/os_tmr.o
+ .comment       0x0000006e       0x6f ./uC/GNU/OS-III/Source/os_var.o
+ .comment       0x0000006e       0x6f ./uC/GNU/OS-III/Ports/ARM-Cortex-M/ARMv7-M/GNU/os_cpu_c.o
+ .comment       0x0000006e       0x6f ./uC/GNU/LIB/lib_ascii.o
+ .comment       0x0000006e       0x6f ./uC/GNU/LIB/lib_math.o
+ .comment       0x0000006e       0x6f ./uC/GNU/LIB/lib_mem.o
+ .comment       0x0000006e       0x6f ./uC/GNU/LIB/lib_str.o
+ .comment       0x0000006e       0x6f ./uC/GNU/CPU/ARM-Cortex-M3/GNU/cpu_c.o
+ .comment       0x0000006e       0x6f ./uC/GNU/CPU/cpu_core.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_acmp.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_adc.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_aes.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_assert.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_burtc.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_cmu.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_crc.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_cryotimer.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_crypto.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_dac.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_dbg.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_dma.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_ebi.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_emu.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_gpio.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_i2c.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_idac.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_int.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_lcd.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_ldma.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_lesense.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_letimer.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_leuart.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_mpu.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_msc.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_opamp.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_pcnt.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_prs.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_rmu.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_rtc.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_rtcc.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_system.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_timer.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_usart.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_vcmp.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emlib/src/em_wdog.o
+ .comment       0x0000006e       0x6f ./BSP/third_party/efm32/emdrv/rtcdrv/src/rtcdriver.o
+ .comment       0x0000006e       0x6f ./BSP/source/startup/system_efm32gg.o
+ .comment       0x0000006e       0x6f ./BSP/source/bsp_bcc.o
+ .comment       0x0000006e       0x6f ./BSP/source/bsp_os.o
+ .comment       0x0000006e       0x6f ./BSP/source/bsp_stk.o
+ .comment       0x0000006e       0x6f ./BSP/source/bsp_stk_leds.o
+ .comment       0x0000006e       0x6f ./BSP/source/bsp_trace.o
+ .comment       0x0000006e       0x6f ./BSP/source/cpu_bsp.o
+ .comment       0x0000006e       0x6f ./APP/GNU/app.o
+ .comment       0x0000006e       0x6f ./APP/GNU/os_app_hooks.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x928
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 ./uC/GNU/OS-III/Source/os_cfg_app.o
+ .debug_aranges
+                0x00000020       0x20 ./uC/GNU/OS-III/Source/os_core.o
+ .debug_aranges
+                0x00000040       0x20 ./uC/GNU/OS-III/Source/os_dbg.o
+ .debug_aranges
+                0x00000060       0x20 ./uC/GNU/OS-III/Source/os_flag.o
+ .debug_aranges
+                0x00000080       0x18 ./uC/GNU/OS-III/Source/os_int.o
+ .debug_aranges
+                0x00000098       0x20 ./uC/GNU/OS-III/Source/os_mem.o
+ .debug_aranges
+                0x000000b8       0x20 ./uC/GNU/OS-III/Source/os_msg.o
+ .debug_aranges
+                0x000000d8       0x20 ./uC/GNU/OS-III/Source/os_mutex.o
+ .debug_aranges
+                0x000000f8       0x20 ./uC/GNU/OS-III/Source/os_pend_multi.o
+ .debug_aranges
+                0x00000118       0x20 ./uC/GNU/OS-III/Source/os_prio.o
+ .debug_aranges
+                0x00000138       0x20 ./uC/GNU/OS-III/Source/os_q.o
+ .debug_aranges
+                0x00000158       0x20 ./uC/GNU/OS-III/Source/os_sem.o
+ .debug_aranges
+                0x00000178       0x18 ./uC/GNU/OS-III/Source/os_stat.o
+ .debug_aranges
+                0x00000190       0x20 ./uC/GNU/OS-III/Source/os_task.o
+ .debug_aranges
+                0x000001b0       0x20 ./uC/GNU/OS-III/Source/os_tick.o
+ .debug_aranges
+                0x000001d0       0x20 ./uC/GNU/OS-III/Source/os_time.o
+ .debug_aranges
+                0x000001f0       0x20 ./uC/GNU/OS-III/Source/os_tmr.o
+ .debug_aranges
+                0x00000210       0x18 ./uC/GNU/OS-III/Source/os_var.o
+ .debug_aranges
+                0x00000228       0x20 ./uC/GNU/OS-III/Ports/ARM-Cortex-M/ARMv7-M/GNU/os_cpu_a.o
+ .debug_aranges
+                0x00000248       0x20 ./uC/GNU/OS-III/Ports/ARM-Cortex-M/ARMv7-M/GNU/os_cpu_c.o
+ .debug_aranges
+                0x00000268       0x20 ./uC/GNU/LIB/Ports/ARM-Cortex-M3/GNU/lib_mem_a.o
+ .debug_aranges
+                0x00000288       0x20 ./uC/GNU/LIB/lib_ascii.o
+ .debug_aranges
+                0x000002a8       0x20 ./uC/GNU/LIB/lib_math.o
+ .debug_aranges
+                0x000002c8       0x20 ./uC/GNU/LIB/lib_mem.o
+ .debug_aranges
+                0x000002e8       0x20 ./uC/GNU/LIB/lib_str.o
+ .debug_aranges
+                0x00000308       0x20 ./uC/GNU/CPU/ARM-Cortex-M3/GNU/cpu_a.o
+ .debug_aranges
+                0x00000328       0x20 ./uC/GNU/CPU/ARM-Cortex-M3/GNU/cpu_c.o
+ .debug_aranges
+                0x00000348       0x20 ./uC/GNU/CPU/cpu_core.o
+ .debug_aranges
+                0x00000368       0x20 ./BSP/third_party/efm32/emlib/src/em_acmp.o
+ .debug_aranges
+                0x00000388       0x20 ./BSP/third_party/efm32/emlib/src/em_adc.o
+ .debug_aranges
+                0x000003a8       0x20 ./BSP/third_party/efm32/emlib/src/em_aes.o
+ .debug_aranges
+                0x000003c8       0x20 ./BSP/third_party/efm32/emlib/src/em_assert.o
+ .debug_aranges
+                0x000003e8       0x20 ./BSP/third_party/efm32/emlib/src/em_burtc.o
+ .debug_aranges
+                0x00000408       0x20 ./BSP/third_party/efm32/emlib/src/em_cmu.o
+ .debug_aranges
+                0x00000428       0x18 ./BSP/third_party/efm32/emlib/src/em_crc.o
+ .debug_aranges
+                0x00000440       0x18 ./BSP/third_party/efm32/emlib/src/em_cryotimer.o
+ .debug_aranges
+                0x00000458       0x18 ./BSP/third_party/efm32/emlib/src/em_crypto.o
+ .debug_aranges
+                0x00000470       0x20 ./BSP/third_party/efm32/emlib/src/em_dac.o
+ .debug_aranges
+                0x00000490       0x20 ./BSP/third_party/efm32/emlib/src/em_dbg.o
+ .debug_aranges
+                0x000004b0       0x20 ./BSP/third_party/efm32/emlib/src/em_dma.o
+ .debug_aranges
+                0x000004d0       0x20 ./BSP/third_party/efm32/emlib/src/em_ebi.o
+ .debug_aranges
+                0x000004f0       0x20 ./BSP/third_party/efm32/emlib/src/em_emu.o
+ .debug_aranges
+                0x00000510       0x20 ./BSP/third_party/efm32/emlib/src/em_gpio.o
+ .debug_aranges
+                0x00000530       0x20 ./BSP/third_party/efm32/emlib/src/em_i2c.o
+ .debug_aranges
+                0x00000550       0x18 ./BSP/third_party/efm32/emlib/src/em_idac.o
+ .debug_aranges
+                0x00000568       0x18 ./BSP/third_party/efm32/emlib/src/em_int.o
+ .debug_aranges
+                0x00000580       0x20 ./BSP/third_party/efm32/emlib/src/em_lcd.o
+ .debug_aranges
+                0x000005a0       0x18 ./BSP/third_party/efm32/emlib/src/em_ldma.o
+ .debug_aranges
+                0x000005b8       0x20 ./BSP/third_party/efm32/emlib/src/em_lesense.o
+ .debug_aranges
+                0x000005d8       0x20 ./BSP/third_party/efm32/emlib/src/em_letimer.o
+ .debug_aranges
+                0x000005f8       0x20 ./BSP/third_party/efm32/emlib/src/em_leuart.o
+ .debug_aranges
+                0x00000618       0x20 ./BSP/third_party/efm32/emlib/src/em_mpu.o
+ .debug_aranges
+                0x00000638       0x58 ./BSP/third_party/efm32/emlib/src/em_msc.o
+ .debug_aranges
+                0x00000690       0x20 ./BSP/third_party/efm32/emlib/src/em_opamp.o
+ .debug_aranges
+                0x000006b0       0x20 ./BSP/third_party/efm32/emlib/src/em_pcnt.o
+ .debug_aranges
+                0x000006d0       0x20 ./BSP/third_party/efm32/emlib/src/em_prs.o
+ .debug_aranges
+                0x000006f0       0x20 ./BSP/third_party/efm32/emlib/src/em_rmu.o
+ .debug_aranges
+                0x00000710       0x20 ./BSP/third_party/efm32/emlib/src/em_rtc.o
+ .debug_aranges
+                0x00000730       0x18 ./BSP/third_party/efm32/emlib/src/em_rtcc.o
+ .debug_aranges
+                0x00000748       0x20 ./BSP/third_party/efm32/emlib/src/em_system.o
+ .debug_aranges
+                0x00000768       0x20 ./BSP/third_party/efm32/emlib/src/em_timer.o
+ .debug_aranges
+                0x00000788       0x20 ./BSP/third_party/efm32/emlib/src/em_usart.o
+ .debug_aranges
+                0x000007a8       0x20 ./BSP/third_party/efm32/emlib/src/em_vcmp.o
+ .debug_aranges
+                0x000007c8       0x20 ./BSP/third_party/efm32/emlib/src/em_wdog.o
+ .debug_aranges
+                0x000007e8       0x20 ./BSP/third_party/efm32/emdrv/rtcdrv/src/rtcdriver.o
+ .debug_aranges
+                0x00000808       0x20 ./BSP/source/startup/system_efm32gg.o
+ .debug_aranges
+                0x00000828       0x20 ./BSP/source/bsp_bcc.o
+ .debug_aranges
+                0x00000848       0x20 ./BSP/source/bsp_os.o
+ .debug_aranges
+                0x00000868       0x20 ./BSP/source/bsp_stk.o
+ .debug_aranges
+                0x00000888       0x20 ./BSP/source/bsp_stk_leds.o
+ .debug_aranges
+                0x000008a8       0x20 ./BSP/source/bsp_trace.o
+ .debug_aranges
+                0x000008c8       0x20 ./BSP/source/cpu_bsp.o
+ .debug_aranges
+                0x000008e8       0x20 ./APP/GNU/app.o
+ .debug_aranges
+                0x00000908       0x20 ./APP/GNU/os_app_hooks.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x25214
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0xb04 ./uC/GNU/OS-III/Source/os_cfg_app.o
+ .debug_info    0x00000b04     0x15d8 ./uC/GNU/OS-III/Source/os_core.o
+ .debug_info    0x000020dc     0x1239 ./uC/GNU/OS-III/Source/os_dbg.o
+ .debug_info    0x00003315     0x10c3 ./uC/GNU/OS-III/Source/os_flag.o
+ .debug_info    0x000043d8       0x72 ./uC/GNU/OS-III/Source/os_int.o
+ .debug_info    0x0000444a      0x7fe ./uC/GNU/OS-III/Source/os_mem.o
+ .debug_info    0x00004c48      0x85c ./uC/GNU/OS-III/Source/os_msg.o
+ .debug_info    0x000054a4      0xedd ./uC/GNU/OS-III/Source/os_mutex.o
+ .debug_info    0x00006381      0xdee ./uC/GNU/OS-III/Source/os_pend_multi.o
+ .debug_info    0x0000716f      0x1bf ./uC/GNU/OS-III/Source/os_prio.o
+ .debug_info    0x0000732e      0xfe5 ./uC/GNU/OS-III/Source/os_q.o
+ .debug_info    0x00008313      0xfc2 ./uC/GNU/OS-III/Source/os_sem.o
+ .debug_info    0x000092d5       0x72 ./uC/GNU/OS-III/Source/os_stat.o
+ .debug_info    0x00009347     0x14d2 ./uC/GNU/OS-III/Source/os_task.o
+ .debug_info    0x0000a819      0xd94 ./uC/GNU/OS-III/Source/os_tick.o
+ .debug_info    0x0000b5ad      0xd25 ./uC/GNU/OS-III/Source/os_time.o
+ .debug_info    0x0000c2d2     0x11ee ./uC/GNU/OS-III/Source/os_tmr.o
+ .debug_info    0x0000d4c0      0xdc1 ./uC/GNU/OS-III/Source/os_var.o
+ .debug_info    0x0000e281       0x8b ./uC/GNU/OS-III/Ports/ARM-Cortex-M/ARMv7-M/GNU/os_cpu_a.o
+ .debug_info    0x0000e30c      0x8e4 ./uC/GNU/OS-III/Ports/ARM-Cortex-M/ARMv7-M/GNU/os_cpu_c.o
+ .debug_info    0x0000ebf0       0x82 ./uC/GNU/LIB/Ports/ARM-Cortex-M3/GNU/lib_mem_a.o
+ .debug_info    0x0000ec72      0x421 ./uC/GNU/LIB/lib_ascii.o
+ .debug_info    0x0000f093      0x166 ./uC/GNU/LIB/lib_math.o
+ .debug_info    0x0000f1f9      0xd27 ./uC/GNU/LIB/lib_mem.o
+ .debug_info    0x0000ff20      0xd53 ./uC/GNU/LIB/lib_str.o
+ .debug_info    0x00010c73       0x78 ./uC/GNU/CPU/ARM-Cortex-M3/GNU/cpu_a.o
+ .debug_info    0x00010ceb      0x395 ./uC/GNU/CPU/ARM-Cortex-M3/GNU/cpu_c.o
+ .debug_info    0x00011080      0x504 ./uC/GNU/CPU/cpu_core.o
+ .debug_info    0x00011584      0x5e2 ./BSP/third_party/efm32/emlib/src/em_acmp.o
+ .debug_info    0x00011b66      0xa2b ./BSP/third_party/efm32/emlib/src/em_adc.o
+ .debug_info    0x00012591     0x10a8 ./BSP/third_party/efm32/emlib/src/em_aes.o
+ .debug_info    0x00013639       0x71 ./BSP/third_party/efm32/emlib/src/em_assert.o
+ .debug_info    0x000136aa      0x621 ./BSP/third_party/efm32/emlib/src/em_burtc.o
+ .debug_info    0x00013ccb     0x10ad ./BSP/third_party/efm32/emlib/src/em_cmu.o
+ .debug_info    0x00014d78       0x92 ./BSP/third_party/efm32/emlib/src/em_crc.o
+ .debug_info    0x00014e0a       0x92 ./BSP/third_party/efm32/emlib/src/em_cryotimer.o
+ .debug_info    0x00014e9c       0x92 ./BSP/third_party/efm32/emlib/src/em_crypto.o
+ .debug_info    0x00014f2e      0x89c ./BSP/third_party/efm32/emlib/src/em_dac.o
+ .debug_info    0x000157ca      0x3f2 ./BSP/third_party/efm32/emlib/src/em_dbg.o
+ .debug_info    0x00015bbc     0x11e3 ./BSP/third_party/efm32/emlib/src/em_dma.o
+ .debug_info    0x00016d9f      0xfa0 ./BSP/third_party/efm32/emlib/src/em_ebi.o
+ .debug_info    0x00017d3f      0xca7 ./BSP/third_party/efm32/emlib/src/em_emu.o
+ .debug_info    0x000189e6      0x5af ./BSP/third_party/efm32/emlib/src/em_gpio.o
+ .debug_info    0x00018f95      0x834 ./BSP/third_party/efm32/emlib/src/em_i2c.o
+ .debug_info    0x000197c9       0x92 ./BSP/third_party/efm32/emlib/src/em_idac.o
+ .debug_info    0x0001985b       0xb9 ./BSP/third_party/efm32/emlib/src/em_int.o
+ .debug_info    0x00019914      0x9b1 ./BSP/third_party/efm32/emlib/src/em_lcd.o
+ .debug_info    0x0001a2c5       0x92 ./BSP/third_party/efm32/emlib/src/em_ldma.o
+ .debug_info    0x0001a357     0x134d ./BSP/third_party/efm32/emlib/src/em_lesense.o
+ .debug_info    0x0001b6a4      0x4c7 ./BSP/third_party/efm32/emlib/src/em_letimer.o
+ .debug_info    0x0001bb6b      0x7fe ./BSP/third_party/efm32/emlib/src/em_leuart.o
+ .debug_info    0x0001c369      0x33f ./BSP/third_party/efm32/emlib/src/em_mpu.o
+ .debug_info    0x0001c6a8      0x764 ./BSP/third_party/efm32/emlib/src/em_msc.o
+ .debug_info    0x0001ce0c      0x4a4 ./BSP/third_party/efm32/emlib/src/em_opamp.o
+ .debug_info    0x0001d2b0      0x625 ./BSP/third_party/efm32/emlib/src/em_pcnt.o
+ .debug_info    0x0001d8d5      0x209 ./BSP/third_party/efm32/emlib/src/em_prs.o
+ .debug_info    0x0001dade      0x4c5 ./BSP/third_party/efm32/emlib/src/em_rmu.o
+ .debug_info    0x0001dfa3      0x2fc ./BSP/third_party/efm32/emlib/src/em_rtc.o
+ .debug_info    0x0001e29f       0x92 ./BSP/third_party/efm32/emlib/src/em_rtcc.o
+ .debug_info    0x0001e331      0x23a ./BSP/third_party/efm32/emlib/src/em_system.o
+ .debug_info    0x0001e56b      0x85e ./BSP/third_party/efm32/emlib/src/em_timer.o
+ .debug_info    0x0001edc9      0xe6d ./BSP/third_party/efm32/emlib/src/em_usart.o
+ .debug_info    0x0001fc36      0x2d0 ./BSP/third_party/efm32/emlib/src/em_vcmp.o
+ .debug_info    0x0001ff06      0x2f2 ./BSP/third_party/efm32/emlib/src/em_wdog.o
+ .debug_info    0x000201f8      0xcdf ./BSP/third_party/efm32/emdrv/rtcdrv/src/rtcdriver.o
+ .debug_info    0x00020ed7      0x4dd ./BSP/source/startup/system_efm32gg.o
+ .debug_info    0x000213b4      0x811 ./BSP/source/bsp_bcc.o
+ .debug_info    0x00021bc5      0x159 ./BSP/source/bsp_os.o
+ .debug_info    0x00021d1e      0x9bd ./BSP/source/bsp_stk.o
+ .debug_info    0x000226db      0x753 ./BSP/source/bsp_stk_leds.o
+ .debug_info    0x00022e2e      0x9f2 ./BSP/source/bsp_trace.o
+ .debug_info    0x00023820      0x18c ./BSP/source/cpu_bsp.o
+ .debug_info    0x000239ac     0x10d4 ./APP/GNU/app.o
+ .debug_info    0x00024a80      0x794 ./APP/GNU/os_app_hooks.o
+
+.debug_abbrev   0x00000000     0x64b0
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0xdc ./uC/GNU/OS-III/Source/os_cfg_app.o
+ .debug_abbrev  0x000000dc      0x1c8 ./uC/GNU/OS-III/Source/os_core.o
+ .debug_abbrev  0x000002a4       0xfc ./uC/GNU/OS-III/Source/os_dbg.o
+ .debug_abbrev  0x000003a0      0x1d5 ./uC/GNU/OS-III/Source/os_flag.o
+ .debug_abbrev  0x00000575       0x26 ./uC/GNU/OS-III/Source/os_int.o
+ .debug_abbrev  0x0000059b      0x132 ./uC/GNU/OS-III/Source/os_mem.o
+ .debug_abbrev  0x000006cd      0x157 ./uC/GNU/OS-III/Source/os_msg.o
+ .debug_abbrev  0x00000824      0x1d5 ./uC/GNU/OS-III/Source/os_mutex.o
+ .debug_abbrev  0x000009f9      0x183 ./uC/GNU/OS-III/Source/os_pend_multi.o
+ .debug_abbrev  0x00000b7c       0xc6 ./uC/GNU/OS-III/Source/os_prio.o
+ .debug_abbrev  0x00000c42      0x1d5 ./uC/GNU/OS-III/Source/os_q.o
+ .debug_abbrev  0x00000e17      0x1d5 ./uC/GNU/OS-III/Source/os_sem.o
+ .debug_abbrev  0x00000fec       0x26 ./uC/GNU/OS-III/Source/os_stat.o
+ .debug_abbrev  0x00001012      0x1a2 ./uC/GNU/OS-III/Source/os_task.o
+ .debug_abbrev  0x000011b4      0x1b4 ./uC/GNU/OS-III/Source/os_tick.o
+ .debug_abbrev  0x00001368      0x188 ./uC/GNU/OS-III/Source/os_time.o
+ .debug_abbrev  0x000014f0      0x1e1 ./uC/GNU/OS-III/Source/os_tmr.o
+ .debug_abbrev  0x000016d1       0xb7 ./uC/GNU/OS-III/Source/os_var.o
+ .debug_abbrev  0x00001788       0x14 ./uC/GNU/OS-III/Ports/ARM-Cortex-M/ARMv7-M/GNU/os_cpu_a.o
+ .debug_abbrev  0x0000179c      0x1e8 ./uC/GNU/OS-III/Ports/ARM-Cortex-M/ARMv7-M/GNU/os_cpu_c.o
+ .debug_abbrev  0x00001984       0x14 ./uC/GNU/LIB/Ports/ARM-Cortex-M3/GNU/lib_mem_a.o
+ .debug_abbrev  0x00001998       0xd4 ./uC/GNU/LIB/lib_ascii.o
+ .debug_abbrev  0x00001a6c       0xfb ./uC/GNU/LIB/lib_math.o
+ .debug_abbrev  0x00001b67      0x1c9 ./uC/GNU/LIB/lib_mem.o
+ .debug_abbrev  0x00001d30      0x130 ./uC/GNU/LIB/lib_str.o
+ .debug_abbrev  0x00001e60       0x14 ./uC/GNU/CPU/ARM-Cortex-M3/GNU/cpu_a.o
+ .debug_abbrev  0x00001e74      0x12b ./uC/GNU/CPU/ARM-Cortex-M3/GNU/cpu_c.o
+ .debug_abbrev  0x00001f9f      0x18c ./uC/GNU/CPU/cpu_core.o
+ .debug_abbrev  0x0000212b      0x189 ./BSP/third_party/efm32/emlib/src/em_acmp.o
+ .debug_abbrev  0x000022b4      0x1ac ./BSP/third_party/efm32/emlib/src/em_adc.o
+ .debug_abbrev  0x00002460      0x1e4 ./BSP/third_party/efm32/emlib/src/em_aes.o
+ .debug_abbrev  0x00002644       0x63 ./BSP/third_party/efm32/emlib/src/em_assert.o
+ .debug_abbrev  0x000026a7      0x249 ./BSP/third_party/efm32/emlib/src/em_burtc.o
+ .debug_abbrev  0x000028f0      0x30e ./BSP/third_party/efm32/emlib/src/em_cmu.o
+ .debug_abbrev  0x00002bfe       0x4b ./BSP/third_party/efm32/emlib/src/em_crc.o
+ .debug_abbrev  0x00002c49       0x4b ./BSP/third_party/efm32/emlib/src/em_cryotimer.o
+ .debug_abbrev  0x00002c94       0x4b ./BSP/third_party/efm32/emlib/src/em_crypto.o
+ .debug_abbrev  0x00002cdf      0x1b5 ./BSP/third_party/efm32/emlib/src/em_dac.o
+ .debug_abbrev  0x00002e94      0x190 ./BSP/third_party/efm32/emlib/src/em_dbg.o
+ .debug_abbrev  0x00003024      0x280 ./BSP/third_party/efm32/emlib/src/em_dma.o
+ .debug_abbrev  0x000032a4      0x1de ./BSP/third_party/efm32/emlib/src/em_ebi.o
+ .debug_abbrev  0x00003482      0x272 ./BSP/third_party/efm32/emlib/src/em_emu.o
+ .debug_abbrev  0x000036f4      0x1d1 ./BSP/third_party/efm32/emlib/src/em_gpio.o
+ .debug_abbrev  0x000038c5      0x24f ./BSP/third_party/efm32/emlib/src/em_i2c.o
+ .debug_abbrev  0x00003b14       0x4b ./BSP/third_party/efm32/emlib/src/em_idac.o
+ .debug_abbrev  0x00003b5f       0x5c ./BSP/third_party/efm32/emlib/src/em_int.o
+ .debug_abbrev  0x00003bbb      0x1d4 ./BSP/third_party/efm32/emlib/src/em_lcd.o
+ .debug_abbrev  0x00003d8f       0x4b ./BSP/third_party/efm32/emlib/src/em_ldma.o
+ .debug_abbrev  0x00003dda      0x253 ./BSP/third_party/efm32/emlib/src/em_lesense.o
+ .debug_abbrev  0x0000402d      0x1a3 ./BSP/third_party/efm32/emlib/src/em_letimer.o
+ .debug_abbrev  0x000041d0      0x1ed ./BSP/third_party/efm32/emlib/src/em_leuart.o
+ .debug_abbrev  0x000043bd      0x103 ./BSP/third_party/efm32/emlib/src/em_mpu.o
+ .debug_abbrev  0x000044c0      0x1fb ./BSP/third_party/efm32/emlib/src/em_msc.o
+ .debug_abbrev  0x000046bb      0x136 ./BSP/third_party/efm32/emlib/src/em_opamp.o
+ .debug_abbrev  0x000047f1      0x18c ./BSP/third_party/efm32/emlib/src/em_pcnt.o
+ .debug_abbrev  0x0000497d       0xe5 ./BSP/third_party/efm32/emlib/src/em_prs.o
+ .debug_abbrev  0x00004a62      0x1e5 ./BSP/third_party/efm32/emlib/src/em_rmu.o
+ .debug_abbrev  0x00004c47      0x17c ./BSP/third_party/efm32/emlib/src/em_rtc.o
+ .debug_abbrev  0x00004dc3       0x4b ./BSP/third_party/efm32/emlib/src/em_rtcc.o
+ .debug_abbrev  0x00004e0e       0xed ./BSP/third_party/efm32/emlib/src/em_system.o
+ .debug_abbrev  0x00004efb      0x183 ./BSP/third_party/efm32/emlib/src/em_timer.o
+ .debug_abbrev  0x0000507e      0x1f3 ./BSP/third_party/efm32/emlib/src/em_usart.o
+ .debug_abbrev  0x00005271      0x115 ./BSP/third_party/efm32/emlib/src/em_vcmp.o
+ .debug_abbrev  0x00005386      0x131 ./BSP/third_party/efm32/emlib/src/em_wdog.o
+ .debug_abbrev  0x000054b7      0x2f2 ./BSP/third_party/efm32/emdrv/rtcdrv/src/rtcdriver.o
+ .debug_abbrev  0x000057a9      0x16b ./BSP/source/startup/system_efm32gg.o
+ .debug_abbrev  0x00005914      0x1cd ./BSP/source/bsp_bcc.o
+ .debug_abbrev  0x00005ae1       0xcf ./BSP/source/bsp_os.o
+ .debug_abbrev  0x00005bb0      0x172 ./BSP/source/bsp_stk.o
+ .debug_abbrev  0x00005d22      0x1c6 ./BSP/source/bsp_stk_leds.o
+ .debug_abbrev  0x00005ee8      0x181 ./BSP/source/bsp_trace.o
+ .debug_abbrev  0x00006069       0xce ./BSP/source/cpu_bsp.o
+ .debug_abbrev  0x00006137      0x254 ./APP/GNU/app.o
+ .debug_abbrev  0x0000638b      0x125 ./APP/GNU/os_app_hooks.o
+
+.debug_line     0x00000000     0xc13b
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x115 ./uC/GNU/OS-III/Source/os_cfg_app.o
+ .debug_line    0x00000115      0x43e ./uC/GNU/OS-III/Source/os_core.o
+ .debug_line    0x00000553      0x156 ./uC/GNU/OS-III/Source/os_dbg.o
+ .debug_line    0x000006a9      0x2f8 ./uC/GNU/OS-III/Source/os_flag.o
+ .debug_line    0x000009a1       0x1d ./uC/GNU/OS-III/Source/os_int.o
+ .debug_line    0x000009be      0x15c ./uC/GNU/OS-III/Source/os_mem.o
+ .debug_line    0x00000b1a      0x1aa ./uC/GNU/OS-III/Source/os_msg.o
+ .debug_line    0x00000cc4      0x26f ./uC/GNU/OS-III/Source/os_mutex.o
+ .debug_line    0x00000f33      0x1d2 ./uC/GNU/OS-III/Source/os_pend_multi.o
+ .debug_line    0x00001105      0x102 ./uC/GNU/OS-III/Source/os_prio.o
+ .debug_line    0x00001207      0x25c ./uC/GNU/OS-III/Source/os_q.o
+ .debug_line    0x00001463      0x260 ./uC/GNU/OS-III/Source/os_sem.o
+ .debug_line    0x000016c3       0x1d ./uC/GNU/OS-III/Source/os_stat.o
+ .debug_line    0x000016e0      0x48d ./uC/GNU/OS-III/Source/os_task.o
+ .debug_line    0x00001b6d      0x215 ./uC/GNU/OS-III/Source/os_tick.o
+ .debug_line    0x00001d82      0x1e4 ./uC/GNU/OS-III/Source/os_time.o
+ .debug_line    0x00001f66      0x303 ./uC/GNU/OS-III/Source/os_tmr.o
+ .debug_line    0x00002269       0xda ./uC/GNU/OS-III/Source/os_var.o
+ .debug_line    0x00002343       0xa3 ./uC/GNU/OS-III/Ports/ARM-Cortex-M/ARMv7-M/GNU/os_cpu_a.o
+ .debug_line    0x000023e6      0x1ef ./uC/GNU/OS-III/Ports/ARM-Cortex-M/ARMv7-M/GNU/os_cpu_c.o
+ .debug_line    0x000025d5      0x101 ./uC/GNU/LIB/Ports/ARM-Cortex-M3/GNU/lib_mem_a.o
+ .debug_line    0x000026d6      0x34d ./uC/GNU/LIB/lib_ascii.o
+ .debug_line    0x00002a23       0xdb ./uC/GNU/LIB/lib_math.o
+ .debug_line    0x00002afe      0x3f5 ./uC/GNU/LIB/lib_mem.o
+ .debug_line    0x00002ef3      0x402 ./uC/GNU/LIB/lib_str.o
+ .debug_line    0x000032f5       0x79 ./uC/GNU/CPU/ARM-Cortex-M3/GNU/cpu_a.o
+ .debug_line    0x0000336e      0x1ce ./uC/GNU/CPU/ARM-Cortex-M3/GNU/cpu_c.o
+ .debug_line    0x0000353c      0x1b0 ./uC/GNU/CPU/cpu_core.o
+ .debug_line    0x000036ec      0x2fc ./BSP/third_party/efm32/emlib/src/em_acmp.o
+ .debug_line    0x000039e8      0x2cd ./BSP/third_party/efm32/emlib/src/em_adc.o
+ .debug_line    0x00003cb5      0xb15 ./BSP/third_party/efm32/emlib/src/em_aes.o
+ .debug_line    0x000047ca       0x63 ./BSP/third_party/efm32/emlib/src/em_assert.o
+ .debug_line    0x0000482d      0x325 ./BSP/third_party/efm32/emlib/src/em_burtc.o
+ .debug_line    0x00004b52      0x766 ./BSP/third_party/efm32/emlib/src/em_cmu.o
+ .debug_line    0x000052b8       0xf6 ./BSP/third_party/efm32/emlib/src/em_crc.o
+ .debug_line    0x000053ae       0xf6 ./BSP/third_party/efm32/emlib/src/em_cryotimer.o
+ .debug_line    0x000054a4       0xf6 ./BSP/third_party/efm32/emlib/src/em_crypto.o
+ .debug_line    0x0000559a      0x2c1 ./BSP/third_party/efm32/emlib/src/em_dac.o
+ .debug_line    0x0000585b      0x2a4 ./BSP/third_party/efm32/emlib/src/em_dbg.o
+ .debug_line    0x00005aff      0x497 ./BSP/third_party/efm32/emlib/src/em_dma.o
+ .debug_line    0x00005f96      0x508 ./BSP/third_party/efm32/emlib/src/em_ebi.o
+ .debug_line    0x0000649e      0x3e5 ./BSP/third_party/efm32/emlib/src/em_emu.o
+ .debug_line    0x00006883      0x3d2 ./BSP/third_party/efm32/emlib/src/em_gpio.o
+ .debug_line    0x00006c55      0x3c5 ./BSP/third_party/efm32/emlib/src/em_i2c.o
+ .debug_line    0x0000701a       0xf6 ./BSP/third_party/efm32/emlib/src/em_idac.o
+ .debug_line    0x00007110      0x125 ./BSP/third_party/efm32/emlib/src/em_int.o
+ .debug_line    0x00007235      0x394 ./BSP/third_party/efm32/emlib/src/em_lcd.o
+ .debug_line    0x000075c9       0xf6 ./BSP/third_party/efm32/emlib/src/em_ldma.o
+ .debug_line    0x000076bf      0x57e ./BSP/third_party/efm32/emlib/src/em_lesense.o
+ .debug_line    0x00007c3d      0x2c5 ./BSP/third_party/efm32/emlib/src/em_letimer.o
+ .debug_line    0x00007f02      0x2e9 ./BSP/third_party/efm32/emlib/src/em_leuart.o
+ .debug_line    0x000081eb      0x1aa ./BSP/third_party/efm32/emlib/src/em_mpu.o
+ .debug_line    0x00008395      0x3f0 ./BSP/third_party/efm32/emlib/src/em_msc.o
+ .debug_line    0x00008785      0x518 ./BSP/third_party/efm32/emlib/src/em_opamp.o
+ .debug_line    0x00008c9d      0x3c4 ./BSP/third_party/efm32/emlib/src/em_pcnt.o
+ .debug_line    0x00009061      0x215 ./BSP/third_party/efm32/emlib/src/em_prs.o
+ .debug_line    0x00009276      0x283 ./BSP/third_party/efm32/emlib/src/em_rmu.o
+ .debug_line    0x000094f9      0x252 ./BSP/third_party/efm32/emlib/src/em_rtc.o
+ .debug_line    0x0000974b       0xf6 ./BSP/third_party/efm32/emlib/src/em_rtcc.o
+ .debug_line    0x00009841      0x22c ./BSP/third_party/efm32/emlib/src/em_system.o
+ .debug_line    0x00009a6d      0x4b4 ./BSP/third_party/efm32/emlib/src/em_timer.o
+ .debug_line    0x00009f21      0x47e ./BSP/third_party/efm32/emlib/src/em_usart.o
+ .debug_line    0x0000a39f      0x25a ./BSP/third_party/efm32/emlib/src/em_vcmp.o
+ .debug_line    0x0000a5f9      0x24d ./BSP/third_party/efm32/emlib/src/em_wdog.o
+ .debug_line    0x0000a846      0x4ad ./BSP/third_party/efm32/emdrv/rtcdrv/src/rtcdriver.o
+ .debug_line    0x0000acf3      0x20b ./BSP/source/startup/system_efm32gg.o
+ .debug_line    0x0000aefe      0x2ac ./BSP/source/bsp_bcc.o
+ .debug_line    0x0000b1aa      0x16a ./BSP/source/bsp_os.o
+ .debug_line    0x0000b314      0x261 ./BSP/source/bsp_stk.o
+ .debug_line    0x0000b575      0x3b6 ./BSP/source/bsp_stk_leds.o
+ .debug_line    0x0000b92b      0x1cf ./BSP/source/bsp_trace.o
+ .debug_line    0x0000bafa      0x1ad ./BSP/source/cpu_bsp.o
+ .debug_line    0x0000bca7      0x353 ./APP/GNU/app.o
+ .debug_line    0x0000bffa      0x141 ./APP/GNU/os_app_hooks.o
+
+.debug_frame    0x00000000     0x63e4
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x30 ./uC/GNU/OS-III/Source/os_cfg_app.o
+ .debug_frame   0x00000030      0x510 ./uC/GNU/OS-III/Source/os_core.o
+ .debug_frame   0x00000540       0x38 ./uC/GNU/OS-III/Source/os_dbg.o
+ .debug_frame   0x00000578      0x1f4 ./uC/GNU/OS-III/Source/os_flag.o
+ .debug_frame   0x0000076c       0xcc ./uC/GNU/OS-III/Source/os_mem.o
+ .debug_frame   0x00000838       0xd8 ./uC/GNU/OS-III/Source/os_msg.o
+ .debug_frame   0x00000910      0x168 ./uC/GNU/OS-III/Source/os_mutex.o
+ .debug_frame   0x00000a78       0xa4 ./uC/GNU/OS-III/Source/os_pend_multi.o
+ .debug_frame   0x00000b1c       0xac ./uC/GNU/OS-III/Source/os_prio.o
+ .debug_frame   0x00000bc8      0x1b0 ./uC/GNU/OS-III/Source/os_q.o
+ .debug_frame   0x00000d78      0x1ac ./uC/GNU/OS-III/Source/os_sem.o
+ .debug_frame   0x00000f24      0x3d0 ./uC/GNU/OS-III/Source/os_task.o
+ .debug_frame   0x000012f4      0x11c ./uC/GNU/OS-III/Source/os_tick.o
+ .debug_frame   0x00001410       0xe8 ./uC/GNU/OS-III/Source/os_time.o
+ .debug_frame   0x000014f8      0x220 ./uC/GNU/OS-III/Source/os_tmr.o
+ .debug_frame   0x00001718      0x1ac ./uC/GNU/OS-III/Ports/ARM-Cortex-M/ARMv7-M/GNU/os_cpu_c.o
+ .debug_frame   0x000018c4      0x28c ./uC/GNU/LIB/lib_ascii.o
+ .debug_frame   0x00001b50       0x9c ./uC/GNU/LIB/lib_math.o
+ .debug_frame   0x00001bec      0x290 ./uC/GNU/LIB/lib_mem.o
+ .debug_frame   0x00001e7c      0x394 ./uC/GNU/LIB/lib_str.o
+ .debug_frame   0x00002210      0x118 ./uC/GNU/CPU/ARM-Cortex-M3/GNU/cpu_c.o
+ .debug_frame   0x00002328      0x2b4 ./uC/GNU/CPU/cpu_core.o
+ .debug_frame   0x000025dc      0x180 ./BSP/third_party/efm32/emlib/src/em_acmp.o
+ .debug_frame   0x0000275c      0x110 ./BSP/third_party/efm32/emlib/src/em_adc.o
+ .debug_frame   0x0000286c      0x218 ./BSP/third_party/efm32/emlib/src/em_aes.o
+ .debug_frame   0x00002a84       0x2c ./BSP/third_party/efm32/emlib/src/em_assert.o
+ .debug_frame   0x00002ab0      0x1ec ./BSP/third_party/efm32/emlib/src/em_burtc.o
+ .debug_frame   0x00002c9c      0x530 ./BSP/third_party/efm32/emlib/src/em_cmu.o
+ .debug_frame   0x000031cc      0x15c ./BSP/third_party/efm32/emlib/src/em_dac.o
+ .debug_frame   0x00003328       0x80 ./BSP/third_party/efm32/emlib/src/em_dbg.o
+ .debug_frame   0x000033a8      0x2f8 ./BSP/third_party/efm32/emlib/src/em_dma.o
+ .debug_frame   0x000036a0      0x39c ./BSP/third_party/efm32/emlib/src/em_ebi.o
+ .debug_frame   0x00003a3c      0x290 ./BSP/third_party/efm32/emlib/src/em_emu.o
+ .debug_frame   0x00003ccc      0x188 ./BSP/third_party/efm32/emlib/src/em_gpio.o
+ .debug_frame   0x00003e54      0x164 ./BSP/third_party/efm32/emlib/src/em_i2c.o
+ .debug_frame   0x00003fb8      0x294 ./BSP/third_party/efm32/emlib/src/em_lcd.o
+ .debug_frame   0x0000424c      0x324 ./BSP/third_party/efm32/emlib/src/em_lesense.o
+ .debug_frame   0x00004570      0x134 ./BSP/third_party/efm32/emlib/src/em_letimer.o
+ .debug_frame   0x000046a4      0x21c ./BSP/third_party/efm32/emlib/src/em_leuart.o
+ .debug_frame   0x000048c0       0x34 ./BSP/third_party/efm32/emlib/src/em_mpu.o
+ .debug_frame   0x000048f4      0x1c4 ./BSP/third_party/efm32/emlib/src/em_msc.o
+ .debug_frame   0x00004ab8       0x5c ./BSP/third_party/efm32/emlib/src/em_opamp.o
+ .debug_frame   0x00004b14      0x1d0 ./BSP/third_party/efm32/emlib/src/em_pcnt.o
+ .debug_frame   0x00004ce4       0x58 ./BSP/third_party/efm32/emlib/src/em_prs.o
+ .debug_frame   0x00004d3c      0x110 ./BSP/third_party/efm32/emlib/src/em_rmu.o
+ .debug_frame   0x00004e4c      0x130 ./BSP/third_party/efm32/emlib/src/em_rtc.o
+ .debug_frame   0x00004f7c       0x58 ./BSP/third_party/efm32/emlib/src/em_system.o
+ .debug_frame   0x00004fd4      0x10c ./BSP/third_party/efm32/emlib/src/em_timer.o
+ .debug_frame   0x000050e0      0x334 ./BSP/third_party/efm32/emlib/src/em_usart.o
+ .debug_frame   0x00005414       0xc8 ./BSP/third_party/efm32/emlib/src/em_vcmp.o
+ .debug_frame   0x000054dc       0xbc ./BSP/third_party/efm32/emlib/src/em_wdog.o
+ .debug_frame   0x00005598      0x39c ./BSP/third_party/efm32/emdrv/rtcdrv/src/rtcdriver.o
+ .debug_frame   0x00005934      0x180 ./BSP/source/startup/system_efm32gg.o
+ .debug_frame   0x00005ab4      0x114 ./BSP/source/bsp_bcc.o
+ .debug_frame   0x00005bc8       0x54 ./BSP/source/bsp_os.o
+ .debug_frame   0x00005c1c       0xdc ./BSP/source/bsp_stk.o
+ .debug_frame   0x00005cf8      0x1c4 ./BSP/source/bsp_stk_leds.o
+ .debug_frame   0x00005ebc       0x54 ./BSP/source/bsp_trace.o
+ .debug_frame   0x00005f10       0x84 ./BSP/source/cpu_bsp.o
+ .debug_frame   0x00005f94       0xfc ./APP/GNU/app.o
+ .debug_frame   0x00006090      0x170 ./APP/GNU/os_app_hooks.o
+ .debug_frame   0x00006200       0x2c f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x0000622c       0x38 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00006264       0x28 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+ .debug_frame   0x0000628c       0x2c f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+ .debug_frame   0x000062b8       0x34 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+ .debug_frame   0x000062ec       0x50 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000633c       0x20 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+ .debug_frame   0x0000635c       0x34 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+ .debug_frame   0x00006390       0x34 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+ .debug_frame   0x000063c4       0x20 f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+
+.debug_str      0x00000000     0xc6aa
+ *(.debug_str)
+ .debug_str     0x00000000      0x8ae ./uC/GNU/OS-III/Source/os_cfg_app.o
+                                0x949 (size before relaxing)
+ .debug_str     0x000008ae     0x1109 ./uC/GNU/OS-III/Source/os_core.o
+                               0x1641 (size before relaxing)
+ .debug_str     0x000019b7      0x72c ./uC/GNU/OS-III/Source/os_dbg.o
+                                0xde6 (size before relaxing)
+ .debug_str     0x000020e3      0x13b ./uC/GNU/OS-III/Source/os_flag.o
+                               0x1307 (size before relaxing)
+ .debug_str     0x0000221e       0x21 ./uC/GNU/OS-III/Source/os_int.o
+                                0x13e (size before relaxing)
+ .debug_str     0x0000223f       0x95 ./uC/GNU/OS-III/Source/os_mem.o
+                                0xf21 (size before relaxing)
+ .debug_str     0x000022d4       0x91 ./uC/GNU/OS-III/Source/os_msg.o
+                                0xf44 (size before relaxing)
+ .debug_str     0x00002365       0xd5 ./uC/GNU/OS-III/Source/os_mutex.o
+                               0x12cf (size before relaxing)
+ .debug_str     0x0000243a       0x7f ./uC/GNU/OS-III/Source/os_pend_multi.o
+                               0x1233 (size before relaxing)
+ .debug_str     0x000024b9       0x6a ./uC/GNU/OS-III/Source/os_prio.o
+                                0x1bd (size before relaxing)
+ .debug_str     0x00002523       0xbd ./uC/GNU/OS-III/Source/os_q.o
+                               0x129b (size before relaxing)
+ .debug_str     0x000025e0       0xbd ./uC/GNU/OS-III/Source/os_sem.o
+                               0x128e (size before relaxing)
+ .debug_str     0x0000269d       0x22 ./uC/GNU/OS-III/Source/os_stat.o
+                                0x13f (size before relaxing)
+ .debug_str     0x000026bf      0x217 ./uC/GNU/OS-III/Source/os_task.o
+                               0x1464 (size before relaxing)
+ .debug_str     0x000028d6       0xde ./uC/GNU/OS-III/Source/os_tick.o
+                               0x12fc (size before relaxing)
+ .debug_str     0x000029b4       0xb9 ./uC/GNU/OS-III/Source/os_time.o
+                               0x127f (size before relaxing)
+ .debug_str     0x00002a6d      0x14d ./uC/GNU/OS-III/Source/os_tmr.o
+                               0x144e (size before relaxing)
+ .debug_str     0x00002bba       0x21 ./uC/GNU/OS-III/Source/os_var.o
+                                0x903 (size before relaxing)
+ .debug_str     0x00002bdb      0x11c ./uC/GNU/OS-III/Ports/ARM-Cortex-M/ARMv7-M/GNU/os_cpu_c.o
+                                0x736 (size before relaxing)
+ .debug_str     0x00002cf7      0x147 ./uC/GNU/LIB/lib_ascii.o
+                                0x28d (size before relaxing)
+ .debug_str     0x00002e3e       0x74 ./uC/GNU/LIB/lib_math.o
+                                0x1a1 (size before relaxing)
+ .debug_str     0x00002eb2      0x766 ./uC/GNU/LIB/lib_mem.o
+                                0x929 (size before relaxing)
+ .debug_str     0x00003618      0x479 ./uC/GNU/LIB/lib_str.o
+                                0x616 (size before relaxing)
+ .debug_str     0x00003a91       0xcd ./uC/GNU/CPU/ARM-Cortex-M3/GNU/cpu_c.o
+                                0x235 (size before relaxing)
+ .debug_str     0x00003b5e      0x1d1 ./uC/GNU/CPU/cpu_core.o
+                                0x359 (size before relaxing)
+ .debug_str     0x00003d2f      0x48f ./BSP/third_party/efm32/emlib/src/em_acmp.o
+                                0x5ee (size before relaxing)
+ .debug_str     0x000041be      0x9e2 ./BSP/third_party/efm32/emlib/src/em_adc.o
+                                0xb78 (size before relaxing)
+ .debug_str     0x00004ba0      0x15e ./BSP/third_party/efm32/emlib/src/em_aes.o
+                                0x300 (size before relaxing)
+ .debug_str     0x00004cfe       0x43 ./BSP/third_party/efm32/emlib/src/em_assert.o
+                                 0xe1 (size before relaxing)
+ .debug_str     0x00004d41      0x2af ./BSP/third_party/efm32/emlib/src/em_burtc.o
+                                0x47c (size before relaxing)
+ .debug_str     0x00004ff0      0x90e ./BSP/third_party/efm32/emlib/src/em_cmu.o
+                                0xe29 (size before relaxing)
+ .debug_str     0x000058fe       0x2c ./BSP/third_party/efm32/emlib/src/em_crc.o
+                                0x171 (size before relaxing)
+ .debug_str     0x0000592a       0x32 ./BSP/third_party/efm32/emlib/src/em_cryotimer.o
+                                0x177 (size before relaxing)
+ .debug_str     0x0000595c       0x2f ./BSP/third_party/efm32/emlib/src/em_crypto.o
+                                0x174 (size before relaxing)
+ .debug_str     0x0000598b      0x35b ./BSP/third_party/efm32/emlib/src/em_dac.o
+                                0x850 (size before relaxing)
+ .debug_str     0x00005ce6      0x29b ./BSP/third_party/efm32/emlib/src/em_dbg.o
+                                0x493 (size before relaxing)
+ .debug_str     0x00005f81      0x87c ./BSP/third_party/efm32/emlib/src/em_dma.o
+                                0xd0f (size before relaxing)
+ .debug_str     0x000067fd      0xbc5 ./BSP/third_party/efm32/emlib/src/em_ebi.o
+                                0xd88 (size before relaxing)
+ .debug_str     0x000073c2      0x47d ./BSP/third_party/efm32/emlib/src/em_emu.o
+                                0x802 (size before relaxing)
+ .debug_str     0x0000783f      0x164 ./BSP/third_party/efm32/emlib/src/em_gpio.o
+                                0x578 (size before relaxing)
+ .debug_str     0x000079a3      0x32f ./BSP/third_party/efm32/emlib/src/em_i2c.o
+                                0x7ab (size before relaxing)
+ .debug_str     0x00007cd2       0x2d ./BSP/third_party/efm32/emlib/src/em_idac.o
+                                0x172 (size before relaxing)
+ .debug_str     0x00007cff       0x38 ./BSP/third_party/efm32/emlib/src/em_int.o
+                                0x191 (size before relaxing)
+ .debug_str     0x00007d37      0x6b8 ./BSP/third_party/efm32/emlib/src/em_lcd.o
+                                0x88a (size before relaxing)
+ .debug_str     0x000083ef       0x2d ./BSP/third_party/efm32/emlib/src/em_ldma.o
+                                0x172 (size before relaxing)
+ .debug_str     0x0000841c     0x10e3 ./BSP/third_party/efm32/emlib/src/em_lesense.o
+                               0x154a (size before relaxing)
+ .debug_str     0x000094ff      0x21a ./BSP/third_party/efm32/emlib/src/em_letimer.o
+                                0x3dd (size before relaxing)
+ .debug_str     0x00009719      0x2be ./BSP/third_party/efm32/emlib/src/em_leuart.o
+                                0x721 (size before relaxing)
+ .debug_str     0x000099d7      0x380 ./BSP/third_party/efm32/emlib/src/em_mpu.o
+                                0x505 (size before relaxing)
+ .debug_str     0x00009d57      0x27a ./BSP/third_party/efm32/emlib/src/em_msc.o
+                                0x6da (size before relaxing)
+ .debug_str     0x00009fd1      0x320 ./BSP/third_party/efm32/emlib/src/em_opamp.o
+                                0x52d (size before relaxing)
+ .debug_str     0x0000a2f1      0x2e5 ./BSP/third_party/efm32/emlib/src/em_pcnt.o
+                                0x4b6 (size before relaxing)
+ .debug_str     0x0000a5d6       0xd5 ./BSP/third_party/efm32/emlib/src/em_prs.o
+                                0x243 (size before relaxing)
+ .debug_str     0x0000a6ab      0x14d ./BSP/third_party/efm32/emlib/src/em_rmu.o
+                                0x3a3 (size before relaxing)
+ .debug_str     0x0000a7f8       0x2c ./BSP/third_party/efm32/emlib/src/em_rtc.o
+                                0x277 (size before relaxing)
+ .debug_str     0x0000a824       0x2d ./BSP/third_party/efm32/emlib/src/em_rtcc.o
+                                0x172 (size before relaxing)
+ .debug_str     0x0000a851       0xc4 ./BSP/third_party/efm32/emlib/src/em_system.o
+                                0x26d (size before relaxing)
+ .debug_str     0x0000a915      0x700 ./BSP/third_party/efm32/emlib/src/em_timer.o
+                                0x919 (size before relaxing)
+ .debug_str     0x0000b015      0x8ee ./BSP/third_party/efm32/emlib/src/em_usart.o
+                                0xdb1 (size before relaxing)
+ .debug_str     0x0000b903      0x1cb ./BSP/third_party/efm32/emlib/src/em_vcmp.o
+                                0x369 (size before relaxing)
+ .debug_str     0x0000bace      0x1e3 ./BSP/third_party/efm32/emlib/src/em_wdog.o
+                                0x398 (size before relaxing)
+ .debug_str     0x0000bcb1      0x2fc ./BSP/third_party/efm32/emdrv/rtcdrv/src/rtcdriver.o
+                                0xb75 (size before relaxing)
+ .debug_str     0x0000bfad      0x11c ./BSP/source/startup/system_efm32gg.o
+                                0x435 (size before relaxing)
+ .debug_str     0x0000c0c9       0xd4 ./BSP/source/bsp_bcc.o
+                                0xa2a (size before relaxing)
+ .debug_str     0x0000c19d       0x50 ./BSP/source/bsp_os.o
+                                0x1d4 (size before relaxing)
+ .debug_str     0x0000c1ed       0x81 ./BSP/source/bsp_stk.o
+                                0xb52 (size before relaxing)
+ .debug_str     0x0000c26e       0xb2 ./BSP/source/bsp_stk_leds.o
+                                0x71c (size before relaxing)
+ .debug_str     0x0000c320      0x1a3 ./BSP/source/bsp_trace.o
+                                0x515 (size before relaxing)
+ .debug_str     0x0000c4c3       0x74 ./BSP/source/cpu_bsp.o
+                                0x204 (size before relaxing)
+ .debug_str     0x0000c537       0x96 ./APP/GNU/app.o
+                               0x1602 (size before relaxing)
+ .debug_str     0x0000c5cd       0xdd ./APP/GNU/os_app_hooks.o
+                                0x65e (size before relaxing)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000       0x60
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x18 ./BSP/third_party/efm32/emlib/src/em_i2c.o
+ .debug_ranges  0x00000018       0x48 ./BSP/third_party/efm32/emlib/src/em_msc.o
+
+.debug_macro
+ *(.debug_macro)
+
+.stack          0x00080000        0x0
+                0x00080000                _stack = .
+ *(.stack)
+
+.ARM.attributes
+                0x00000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1d f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .ARM.attributes
+                0x0000001d       0x2d f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x1b f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.attributes
+                0x00000065       0x33 ./uC/GNU/OS-III/Source/os_cfg_app.o
+ .ARM.attributes
+                0x00000098       0x33 ./uC/GNU/OS-III/Source/os_core.o
+ .ARM.attributes
+                0x000000cb       0x33 ./uC/GNU/OS-III/Source/os_dbg.o
+ .ARM.attributes
+                0x000000fe       0x33 ./uC/GNU/OS-III/Source/os_flag.o
+ .ARM.attributes
+                0x00000131       0x33 ./uC/GNU/OS-III/Source/os_int.o
+ .ARM.attributes
+                0x00000164       0x33 ./uC/GNU/OS-III/Source/os_mem.o
+ .ARM.attributes
+                0x00000197       0x33 ./uC/GNU/OS-III/Source/os_msg.o
+ .ARM.attributes
+                0x000001ca       0x33 ./uC/GNU/OS-III/Source/os_mutex.o
+ .ARM.attributes
+                0x000001fd       0x33 ./uC/GNU/OS-III/Source/os_pend_multi.o
+ .ARM.attributes
+                0x00000230       0x33 ./uC/GNU/OS-III/Source/os_prio.o
+ .ARM.attributes
+                0x00000263       0x33 ./uC/GNU/OS-III/Source/os_q.o
+ .ARM.attributes
+                0x00000296       0x33 ./uC/GNU/OS-III/Source/os_sem.o
+ .ARM.attributes
+                0x000002c9       0x33 ./uC/GNU/OS-III/Source/os_stat.o
+ .ARM.attributes
+                0x000002fc       0x33 ./uC/GNU/OS-III/Source/os_task.o
+ .ARM.attributes
+                0x0000032f       0x33 ./uC/GNU/OS-III/Source/os_tick.o
+ .ARM.attributes
+                0x00000362       0x33 ./uC/GNU/OS-III/Source/os_time.o
+ .ARM.attributes
+                0x00000395       0x33 ./uC/GNU/OS-III/Source/os_tmr.o
+ .ARM.attributes
+                0x000003c8       0x33 ./uC/GNU/OS-III/Source/os_var.o
+ .ARM.attributes
+                0x000003fb       0x21 ./uC/GNU/OS-III/Ports/ARM-Cortex-M/ARMv7-M/GNU/os_cpu_a.o
+ .ARM.attributes
+                0x0000041c       0x33 ./uC/GNU/OS-III/Ports/ARM-Cortex-M/ARMv7-M/GNU/os_cpu_c.o
+ .ARM.attributes
+                0x0000044f       0x21 ./uC/GNU/LIB/Ports/ARM-Cortex-M3/GNU/lib_mem_a.o
+ .ARM.attributes
+                0x00000470       0x33 ./uC/GNU/LIB/lib_ascii.o
+ .ARM.attributes
+                0x000004a3       0x33 ./uC/GNU/LIB/lib_math.o
+ .ARM.attributes
+                0x000004d6       0x33 ./uC/GNU/LIB/lib_mem.o
+ .ARM.attributes
+                0x00000509       0x33 ./uC/GNU/LIB/lib_str.o
+ .ARM.attributes
+                0x0000053c       0x21 ./uC/GNU/CPU/ARM-Cortex-M3/GNU/cpu_a.o
+ .ARM.attributes
+                0x0000055d       0x33 ./uC/GNU/CPU/ARM-Cortex-M3/GNU/cpu_c.o
+ .ARM.attributes
+                0x00000590       0x33 ./uC/GNU/CPU/cpu_core.o
+ .ARM.attributes
+                0x000005c3       0x33 ./BSP/third_party/efm32/emlib/src/em_acmp.o
+ .ARM.attributes
+                0x000005f6       0x33 ./BSP/third_party/efm32/emlib/src/em_adc.o
+ .ARM.attributes
+                0x00000629       0x33 ./BSP/third_party/efm32/emlib/src/em_aes.o
+ .ARM.attributes
+                0x0000065c       0x33 ./BSP/third_party/efm32/emlib/src/em_assert.o
+ .ARM.attributes
+                0x0000068f       0x33 ./BSP/third_party/efm32/emlib/src/em_burtc.o
+ .ARM.attributes
+                0x000006c2       0x33 ./BSP/third_party/efm32/emlib/src/em_cmu.o
+ .ARM.attributes
+                0x000006f5       0x33 ./BSP/third_party/efm32/emlib/src/em_crc.o
+ .ARM.attributes
+                0x00000728       0x33 ./BSP/third_party/efm32/emlib/src/em_cryotimer.o
+ .ARM.attributes
+                0x0000075b       0x33 ./BSP/third_party/efm32/emlib/src/em_crypto.o
+ .ARM.attributes
+                0x0000078e       0x33 ./BSP/third_party/efm32/emlib/src/em_dac.o
+ .ARM.attributes
+                0x000007c1       0x33 ./BSP/third_party/efm32/emlib/src/em_dbg.o
+ .ARM.attributes
+                0x000007f4       0x33 ./BSP/third_party/efm32/emlib/src/em_dma.o
+ .ARM.attributes
+                0x00000827       0x33 ./BSP/third_party/efm32/emlib/src/em_ebi.o
+ .ARM.attributes
+                0x0000085a       0x33 ./BSP/third_party/efm32/emlib/src/em_emu.o
+ .ARM.attributes
+                0x0000088d       0x33 ./BSP/third_party/efm32/emlib/src/em_gpio.o
+ .ARM.attributes
+                0x000008c0       0x33 ./BSP/third_party/efm32/emlib/src/em_i2c.o
+ .ARM.attributes
+                0x000008f3       0x33 ./BSP/third_party/efm32/emlib/src/em_idac.o
+ .ARM.attributes
+                0x00000926       0x33 ./BSP/third_party/efm32/emlib/src/em_int.o
+ .ARM.attributes
+                0x00000959       0x33 ./BSP/third_party/efm32/emlib/src/em_lcd.o
+ .ARM.attributes
+                0x0000098c       0x33 ./BSP/third_party/efm32/emlib/src/em_ldma.o
+ .ARM.attributes
+                0x000009bf       0x33 ./BSP/third_party/efm32/emlib/src/em_lesense.o
+ .ARM.attributes
+                0x000009f2       0x33 ./BSP/third_party/efm32/emlib/src/em_letimer.o
+ .ARM.attributes
+                0x00000a25       0x33 ./BSP/third_party/efm32/emlib/src/em_leuart.o
+ .ARM.attributes
+                0x00000a58       0x33 ./BSP/third_party/efm32/emlib/src/em_mpu.o
+ .ARM.attributes
+                0x00000a8b       0x33 ./BSP/third_party/efm32/emlib/src/em_msc.o
+ .ARM.attributes
+                0x00000abe       0x33 ./BSP/third_party/efm32/emlib/src/em_opamp.o
+ .ARM.attributes
+                0x00000af1       0x33 ./BSP/third_party/efm32/emlib/src/em_pcnt.o
+ .ARM.attributes
+                0x00000b24       0x33 ./BSP/third_party/efm32/emlib/src/em_prs.o
+ .ARM.attributes
+                0x00000b57       0x33 ./BSP/third_party/efm32/emlib/src/em_rmu.o
+ .ARM.attributes
+                0x00000b8a       0x33 ./BSP/third_party/efm32/emlib/src/em_rtc.o
+ .ARM.attributes
+                0x00000bbd       0x33 ./BSP/third_party/efm32/emlib/src/em_rtcc.o
+ .ARM.attributes
+                0x00000bf0       0x33 ./BSP/third_party/efm32/emlib/src/em_system.o
+ .ARM.attributes
+                0x00000c23       0x33 ./BSP/third_party/efm32/emlib/src/em_timer.o
+ .ARM.attributes
+                0x00000c56       0x33 ./BSP/third_party/efm32/emlib/src/em_usart.o
+ .ARM.attributes
+                0x00000c89       0x33 ./BSP/third_party/efm32/emlib/src/em_vcmp.o
+ .ARM.attributes
+                0x00000cbc       0x33 ./BSP/third_party/efm32/emlib/src/em_wdog.o
+ .ARM.attributes
+                0x00000cef       0x33 ./BSP/third_party/efm32/emdrv/rtcdrv/src/rtcdriver.o
+ .ARM.attributes
+                0x00000d22       0x33 ./BSP/source/startup/system_efm32gg.o
+ .ARM.attributes
+                0x00000d55       0x33 ./BSP/source/bsp_bcc.o
+ .ARM.attributes
+                0x00000d88       0x33 ./BSP/source/bsp_os.o
+ .ARM.attributes
+                0x00000dbb       0x33 ./BSP/source/bsp_stk.o
+ .ARM.attributes
+                0x00000dee       0x33 ./BSP/source/bsp_stk_leds.o
+ .ARM.attributes
+                0x00000e21       0x33 ./BSP/source/bsp_trace.o
+ .ARM.attributes
+                0x00000e54       0x33 ./BSP/source/cpu_bsp.o
+ .ARM.attributes
+                0x00000e87       0x33 ./APP/GNU/app.o
+ .ARM.attributes
+                0x00000eba       0x33 ./APP/GNU/os_app_hooks.o
+ .ARM.attributes
+                0x00000eed       0x1d f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000f0a       0x2d f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000f37       0x1d f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000f54       0x2d f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000f81       0x2d f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000fae       0x2d f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000fdb       0x1b f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000ff6       0x2d f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00001023       0x2d f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00001050       0x2d f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000107d       0x2d f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x000010aa       0x2d f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x000010d7       0x2d f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00001104       0x2d f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .ARM.attributes
+                0x00001131       0x1d f:/gcc/gcc-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(ARM_IAR_and_GCC.out elf32-littlearm)
