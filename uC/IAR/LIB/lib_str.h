@@ -158,7 +158,7 @@
 #include  <lib_def.h>
 #include  <lib_ascii.h>
 
-#include  <lib_cfg.h>
+#include  <APP/IAR/lib_cfg.h>
 
 #if 0                                                           /* See Note #4.                                         */
 #include  <stdio.h>

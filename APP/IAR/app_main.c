@@ -37,8 +37,8 @@
 #include  <lib_mem.h>
 #include  <os.h>
 #include  <bsp_os.h>
-#include  <os_app_hooks.h>
-#include  <app_cfg.h>
+#include  <APP/IAR/os_app_hooks.h>
+#include  <APP/IAR/app_cfg.h>
 #include  <bsp_trace.h>
 #include  <em_chip.h>
 #include  <em_cmu.h>

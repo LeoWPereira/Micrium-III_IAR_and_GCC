@@ -52,8 +52,8 @@
 ************************************************************************************************************************
 */
 
-#include <os_cfg.h>
-#include <os_cfg_app.h>
+#include <APP/IAR/os_cfg.h>
+#include <APP/IAR/os_cfg_app.h>
 #include <cpu_core.h>
 #include <lib_def.h>
 #include "os_type.h"

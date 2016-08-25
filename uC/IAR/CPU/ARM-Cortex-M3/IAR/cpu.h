@@ -87,7 +87,7 @@
 	#include  <intrinsics.h>
 
 	#include  <cpu_def.h>
-	#include  <cpu_cfg.h>                                           /* See Note #3.                                         */
+	#include  <APP/IAR/cpu_cfg.h>                                           /* See Note #3.                                         */
 
 	#ifdef __cplusplus
 	extern  "C" {

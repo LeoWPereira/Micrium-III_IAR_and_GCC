@@ -37,7 +37,7 @@
 #define   OS_TRACE_H
 
 
-#include  <os_cfg.h>
+#include  <APP/IAR/os_cfg.h>
 
 #if (defined(OS_CFG_TRACE_EN) && (OS_CFG_TRACE_EN > 0u))
 #include  <os_trace_events.h>                                   /* See Note #1.                                         */
