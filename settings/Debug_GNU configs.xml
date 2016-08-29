@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="Assembly Source File">
+
+</language>
+<language name="C Source File">
+<includepath workspace_path="true">/${ProjName}/uC/GNU/CPU/ARM-Cortex-M3/GNU</includepath>
+<includepath workspace_path="true">/${ProjName}/uC/GNU/LIB</includepath>
+<includepath workspace_path="true">/${ProjName}/uC/GNU/OS-III</includepath>
+<includepath workspace_path="true">/${ProjName}/uC/GNU/OS-III/Source</includepath>
+<includepath workspace_path="true">/${ProjName}/uC/GNU/OS-III/Ports/ARM-Cortex-M/ARMv7-M/GNU</includepath>
+<includepath workspace_path="true">/${ProjName}/BSP/include</includepath>
+<includepath workspace_path="true">/${ProjName}/BSP/cfg</includepath>
+<includepath workspace_path="true">/${ProjName}/BSP/third_party/efm32/Device/SiliconLabs/EFM32GG/Include</includepath>
+<includepath workspace_path="true">/${ProjName}/BSP/third_party/efm32/emlib/inc</includepath>
+<includepath workspace_path="true">/${ProjName}/BSP/third_party/efm32/emdrv/common/inc</includepath>
+<includepath workspace_path="true">/${ProjName}/BSP/third_party/efm32/emdrv/config</includepath>
+<includepath workspace_path="true">/${ProjName}/BSP/third_party/efm32/emdrv/rtcdrv/inc</includepath>
+<includepath workspace_path="true">/${ProjName}/BSP/third_party/efm32/CMSIS/Include</includepath>
+<includepath workspace_path="true">/${ProjName}/uC/GNU/CPU</includepath>
+<includepath workspace_path="true">/${ProjName}/APP/GNU</includepath>
+
+</language>
+<language name="Object File">
+
+</language>
+</section>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+<language name="Assembly Source File">
+
+</language>
+<language name="C Source File">
+<macro>
+<name>DEBUG_EFM</name><value>1</value>
+</macro>
+<macro>
+<name>EFM32GG990F1024</name><value>1</value>
+</macro>
+
+</language>
+<language name="Object File">
+
+</language>
+</section>
+</cdtprojectproperties>
